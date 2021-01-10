@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ランダム英単語ガチャ</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<style>
+
+  h1{
+    text-align:center;
+    margin: 25px 0 30px;
+  }
+
+  body {
+    background-color: #e3fafa;
+    
+    
+  }
+  table {
+   
+    table-layout: fixed ;
+    background-color: #fdfdfd;
+    
+    
+    
+  }
+
+
+  #showData {
+    width: 70%; 
+    /* margin: 0 auto;  */
+    position: relative;
+    left: 15%;
+    
+  }
+
+  .styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    
+  }
+
+  .styled-table th {
+    background-color: #009879;
+    color: #ffffff;
+    /* text-align: center; */
+  }
+
+    .styled-table th,
+  .styled-table td {
+      padding: 12px 15px;
+      width: 33%;
+  }
+
+  /* .styled-table tr {
+      border-bottom: 1px solid #dddddd;
+  } */
+/* 
+  .styled-table tr:nth-of-type(even) {
+      background-color: #f3f3f3;
+  } */
+
+  /* .styled-table tr:last-of-type {
+      border-bottom: 4px solid #009879;
+  } */
+
+  #dataset_list{
+    width: 250px;
+  }
+
+  #num_vocab_list{
+    width:50px;
+  }
+
+  .select_box{
+    width: 100px;
+    height: 30px;
+    border: 2px solid #1c87c9;
+    font-size: 15px;
+    color: #060808;
+    background-color: #eee;
+    border-radius: 25px;
+    /* box-shadow: 4px 4px #ccc;  */
+  }
+
+  .one_more{
+    position: relative;
+    left: 15%;
+  }
+
+  /* .one_more_btn{
+    margin:0 auto;
+    display:block;
+
+  } */
+
+  .meaning{
+    position: relative;
+    left: 15%;
+    margin-top: 40px;
+  }
+ 
+  .display_checkbox{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 5px;
+    left: 15%;
+  }
+
+  .num_vocab {
+    position: relative;
+    left: 15%;
+    margin-top: 20px;
+  }
+
+  .select_num {
+    position: relative;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    left: 15%;
+  }
+
+  .dataset{
+    position: relative;
+    left: 15%;
+  }
+
+  .select_dataset{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 5px;
+    left: 15%;
+    margin-bottom: 40px;
+  }
+
+  .explanation {
+    position: relative;
+    left: 15%;
+    
+  }
+  
+  .reference {
+    margin-top: 20px;
+    position: relative;
+    left: 15%;
+    font-size: 14px;
+  }
+
+  
+  
+
+</style>
+
+<body>
+  <h1>ランダム英単語ガチャ</h1>
+
+  <div class="explanation">
+    <p style="text-align: left;font-size: 14px;">ランダムに英単語とその意味を1~10つ表示します。<br>ランダムに英単語を学習したい際にお使いください。<br>下部で、難易度別の単語集、意味表示の有無、表示語数の設定ができます。</p>
+  </div>
+  
+  <div class="dataset">
+    <h3>難易度別単語集</h3>
+  </div>
+  <div class="select_dataset">
+    <select class="select_box" id="dataset_list">
+      <option value="elementary">小学生レベル1001語</option>
+      <option value="middle">中学生レベル1292語</option>
+      <option value="high">高校レベル2277語</option>
+      <option value="university">大学生レベル2623語</option>
+      <option value="common" selected>日常会話でよく使う2918語</option>
+    </select>
+  </div>
+  
+  
+    <div id='showData'>
+
+    </div>
+  
+
+  <div class="options">
+
+    <div class="one_more">
+      <button type="button" class="btn btn-primary one_more_btn" onclick="getJson()">もう一度</button>
+    </div>
+
+    <div class="display_meaning_checkbox">
+      <div class="meaning">
+        <h3>意味表示</h3>
+      </div>
+      <div class="display_checkbox">
+        <form name="check_meaning">
+          <input type="checkbox" class="display_check" id="display_meaning" name="display_meaning" value="show" >
+          <label for="display_meaning">表示する</label>
+        </form>
+      </div>
+
+    </div>
+
+    <div class="num_vocab">
+      <h3>表示語数</h3>
+    </div>
+    <div class="select_num">
+      <select class="select_box" id="num_vocab_list">
+        <option value="one">1</option>
+        <option value="two">2</option>
+        <option value="three">3</option>
+        <option value="four">4</option>
+        <option value="five" selected>5</option>
+        <option value="six">6</option>
+        <option value="seven">7</option>
+        <option value="eight">8</option>
+        <option value="nine">9</option>
+        <option value="ten">10</option>
+      </select>
+    </div>
+
+    <div class="reference">
+      <p>単語引用元：『CEFR-J Wordlist Version 1.6』 東京外国語大学投野由紀夫研究室. <br>（URL: http://www.cefr-j.org/download.html より2021年1月ダウンロード）</p>
+    </div>
+    
+
+    <footer>
+      
+      <p style="text-align: center;margin-bottom: 30px;margin-top: 30px">© 2021 Yoshinori Hanada</p>
+    </footer>
+    
+  
+  </div>
+
+  <!-- jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+  <script>
+     
+
+    var e = document.getElementById("num_vocab_list");
+    var num_vocab=e.options[e.selectedIndex].text;
+
+    var req = new XMLHttpRequest(); // HTTPでファイルを読み込むためのXMLHttpRrequestオブジェクトを生成
+    // req.open("get", "https://jsondata.okiba.me/v1/json/E5cOQ201221050909", true); // アクセスするファイルを指定
+    // req.open("get", "/test_words", true);
+    req.open("get", "/vocabs", true);
+    req.send(); // HTTPリクエストの発行
+
+    req.onload = function() {
+      var result = JSON.parse(req.responseText);
+      // alert(JSON.stringify(result["common"]))
+
+      createTable(result["common"],num_vocab)
+
+      var japanese_meaning = 2;
+        var english_meaning = 3;
+
+        if (document.querySelector(".display_check").checked == true) {
+          $('#vocab-table th:nth-child(' + japanese_meaning + ')').show();
+          $('#vocab-table td:nth-child(' + japanese_meaning + ')').show();
+          $('#vocab-table th:nth-child(' + english_meaning + ')').show();
+          $('#vocab-table td:nth-child(' + english_meaning + ')').show();
+          
+        } else {
+          $('#vocab-table th:nth-child(' + japanese_meaning + ')').hide();
+          $('#vocab-table td:nth-child(' + japanese_meaning + ')').hide();
+          $('#vocab-table th:nth-child(' + english_meaning + ')').hide();
+          $('#vocab-table td:nth-child(' + english_meaning + ')').hide();
+          
+        }
+
+    }
+    
+
+    
+
+    function getJson() {
+      var e = document.getElementById("num_vocab_list");
+      var num_vocab=e.options[e.selectedIndex].text;
+
+      var a = document.getElementById("dataset_list");
+      var dataset=a.options[a.selectedIndex].text;
+
+      // alert(dataset);
+
+      var data;
+
+
+      switch (dataset) {
+        case "日常会話でよく使う2918語":
+          data = "common";
+          break;
+        case "大学生レベル2623語":
+          data = "university";
+          break;
+        case "高校レベル2277語":
+          data = "high";
+          break;
+        case "中学生レベル1292語":
+          data = "middle";
+          break;
+        case "小学生レベル1001語":
+          data = "elementary";
+          break;
+  
+      }
+
+      var req = new XMLHttpRequest(); // HTTPでファイルを読み込むためのXMLHttpRrequestオブジェクトを生成
+      // req.open("get", "https://jsondata.okiba.me/v1/json/E5cOQ201221050909", true); // アクセスするファイルを指定
+      // req.open("get", "/test_words", true);
+      req.open("get", "/vocabs", true);
+      req.send(); // HTTPリクエストの発行
+
+      req.onload = function() {
+        var result = JSON.parse(req.responseText);
+        // alert(JSON.stringify(result))
+
+        createTable(result[data],num_vocab)
+
+        var japanese_meaning = 2;
+        var english_meaning = 3;
+
+        if (document.querySelector(".display_check").checked == true) {
+          $('#vocab-table th:nth-child(' + japanese_meaning + ')').show();
+          $('#vocab-table td:nth-child(' + japanese_meaning + ')').show();
+          $('#vocab-table th:nth-child(' + english_meaning + ')').show();
+          $('#vocab-table td:nth-child(' + english_meaning + ')').show();
+          
+        } else {
+          $('#vocab-table th:nth-child(' + japanese_meaning + ')').hide();
+          $('#vocab-table td:nth-child(' + japanese_meaning + ')').hide();
+          $('#vocab-table th:nth-child(' + english_meaning + ')').hide();
+          $('#vocab-table td:nth-child(' + english_meaning + ')').hide();
+          
+        }
+
+      }
+
+      
+      
+
+
+
+
+    }
+
+    function createTable(words,num_vocab) {
+      // EXTRACT VALUE FOR HTML HEADER.
+      rand_words = getRandomSubarray(words,num_vocab)
+      var col = [];
+      for (var i = 0; i < rand_words.length; i++) {
+        for (var key in rand_words[i]) {
+          if (col.indexOf(key) === -1) {
+            col.push(key);
+          }
+        }
+      }
+
+      //Create Dynamix
+      // CREATE DYNAMIC TABLE.
+      var table = document.createElement("table");
+      table.setAttribute('class', 'styled-table');
+      table.setAttribute('id', 'vocab-table');
+
+      
+
+
+      // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
+
+      var tr = table.insertRow(-1); // TABLE ROW.
+
+      
+      for (var i = 0; i < col.length; i++) {
+        var th = document.createElement("th"); // TABLE HEADER.
+        th.innerHTML = col[i];
+        tr.appendChild(th);
+      }
+      
+
+      // ADD JSON DATA TO THE TABLE AS ROWS.
+
+      
+      for (var i = 0; i < rand_words.length; i++) {
+
+        tr = table.insertRow(-1);
+
+        for (var j = 0; j < col.length; j++) {
+          var tabCell = tr.insertCell(-1);
+          tabCell.innerHTML = rand_words[i][col[j]];
+        }
+      }
+
+      // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
+      var divContainer = document.getElementById("showData");
+      divContainer.innerHTML = "";
+      divContainer.appendChild(table);
+    }
+
+    function getRandomSubarray(arr, size) {
+      var shuffled = arr.slice(0),
+        i = arr.length,
+        min = i - size,
+        temp, index;
+      while (i-- > min) {
+        index = Math.floor((i + 1) * Math.random());
+        temp = shuffled[index];
+        shuffled[index] = shuffled[i];
+        shuffled[i] = temp;
+      }
+      return shuffled.slice(min);
+    }
+
+    //when display checkbox is checked
+    $(function () {
+      $('#display_meaning').change(function () {
+        var japanese_meaning = 2;
+        var english_meaning = 3;
+        if (this.checked) {
+          $('#vocab-table th:nth-child(' + japanese_meaning + ')').show();
+          $('#vocab-table td:nth-child(' + japanese_meaning + ')').show();
+          $('#vocab-table th:nth-child(' + english_meaning + ')').show();
+          $('#vocab-table td:nth-child(' + english_meaning + ')').show();
+        } else {
+          $('#vocab-table th:nth-child(' + japanese_meaning + ')').hide();
+          $('#vocab-table td:nth-child(' + japanese_meaning + ')').hide();
+          $('#vocab-table th:nth-child(' + english_meaning + ')').hide();
+          $('#vocab-table td:nth-child(' + english_meaning + ')').hide();
+        }
+      });                
+    })  
+
+  </script>
+
+
+
+
+</body>
+
+</html>
