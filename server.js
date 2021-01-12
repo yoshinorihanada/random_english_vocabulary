@@ -11,11 +11,11 @@ const app = express();
 const fs = require('fs');
 
 
-let elementary = JSON.parse(fs.readFileSync(__dirname +'/vocab/elementary_school_level.json'));
-let middle = JSON.parse(fs.readFileSync(__dirname +'/vocab/middle_school_level.json'));
-let high = JSON.parse(fs.readFileSync(__dirname +'/vocab/high_school_level.json'));
-let university = JSON.parse(fs.readFileSync(__dirname +'/vocab/university_level.json'));
-let common = JSON.parse(fs.readFileSync(__dirname +'/vocab/common_words.json'));  
+let elementary = JSON.parse(fs.readFileSync(__dirname +'/vocab/elementary.json'));
+let middle = JSON.parse(fs.readFileSync(__dirname +'/vocab/middle.json'));
+let high = JSON.parse(fs.readFileSync(__dirname +'/vocab/high.json'));
+let university = JSON.parse(fs.readFileSync(__dirname +'/vocab/university.json'));
+let common = JSON.parse(fs.readFileSync(__dirname +'/vocab/common.json'));  
 
 let vocabs = {
   elementary,

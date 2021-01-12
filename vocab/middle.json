@@ -1,0 +1,6462 @@
+[
+  {
+    "英単語": "ability",
+    "英語意味": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment",
+    "日本語意味": "能力"
+  },
+  {
+    "英単語": "abroad",
+    "英語意味": "in a foreign country",
+    "日本語意味": "海外へ"
+  },
+  {
+    "英単語": "accept",
+    "英語意味": "consider or hold as true",
+    "日本語意味": "受け入れます"
+  },
+  {
+    "英単語": "acceptable",
+    "英語意味": "worthy of acceptance or satisfactory",
+    "日本語意味": "許容"
+  },
+  {
+    "英単語": "accident",
+    "英語意味": "an unfortunate mishap; especially one causing damage or injury",
+    "日本語意味": "事故"
+  },
+  {
+    "英単語": "account",
+    "英語意味": "a record or narrative description of past events",
+    "日本語意味": "アカウント"
+  },
+  {
+    "英単語": "achieve",
+    "英語意味": "to gain with effort",
+    "日本語意味": "成し遂げる"
+  },
+  {
+    "英単語": "across",
+    "英語意味": "to the opposite side",
+    "日本語意味": "横切って"
+  },
+  {
+    "英単語": "act",
+    "英語意味": "a legal document codifying the result of deliberations of a committee or society or legislative body",
+    "日本語意味": "行為"
+  },
+  {
+    "英単語": "actually",
+    "英語意味": "in actual fact",
+    "日本語意味": "実際"
+  },
+  {
+    "英単語": "addition",
+    "英語意味": "a component that is added to something to improve it",
+    "日本語意味": "添加"
+  },
+  {
+    "英単語": "additional",
+    "英語意味": "further or added",
+    "日本語意味": "追加"
+  },
+  {
+    "英単語": "adjective",
+    "英語意味": "a word that expresses an attribute of something",
+    "日本語意味": "形容詞"
+  },
+  {
+    "英単語": "adjust",
+    "英語意味": "alter or regulate so as to achieve accuracy or conform to a standard",
+    "日本語意味": "調節します"
+  },
+  {
+    "英単語": "admire",
+    "英語意味": "feel admiration for",
+    "日本語意味": "賞賛"
+  },
+  {
+    "英単語": "admit",
+    "英語意味": "declare to be true or admit the existence or reality or truth of",
+    "日本語意味": "認めます"
+  },
+  {
+    "英単語": "adult",
+    "英語意味": "a fully developed person from maturity onward",
+    "日本語意味": "大人"
+  },
+  {
+    "英単語": "advanced",
+    "英語意味": "move forward, also in the metaphorical sense",
+    "日本語意味": "高度"
+  },
+  {
+    "英単語": "advantage",
+    "英語意味": "the quality of having a superior or more favorable position",
+    "日本語意味": "利点"
+  },
+  {
+    "英単語": "adventure",
+    "英語意味": "a wild and exciting undertaking (not necessarily lawful)",
+    "日本語意味": "冒険"
+  },
+  {
+    "英単語": "advertisement",
+    "英語意味": "a public promotion of some product or service",
+    "日本語意味": "広告"
+  },
+  {
+    "英単語": "advertising",
+    "英語意味": "a public promotion of some product or service",
+    "日本語意味": "広告"
+  },
+  {
+    "英単語": "advice",
+    "英語意味": "a proposal for an appropriate course of action",
+    "日本語意味": "助言"
+  },
+  {
+    "英単語": "advise",
+    "英語意味": "give advice to",
+    "日本語意味": "アドバイス"
+  },
+  {
+    "英単語": "affair",
+    "英語意味": "a vaguely specified concern",
+    "日本語意味": "事件、出来事"
+  },
+  {
+    "英単語": "after",
+    "英語意味": "located farther aft",
+    "日本語意味": "後に"
+  },
+  {
+    "英単語": "aged",
+    "英語意味": "people who are old collectively",
+    "日本語意味": "老人"
+  },
+  {
+    "英単語": "agency",
+    "英語意味": "an administrative unit of government",
+    "日本語意味": "代理店"
+  },
+  {
+    "英単語": "agent",
+    "英語意味": "an active and efficient cause; capable of producing a certain effect",
+    "日本語意味": "エージェント"
+  },
+  {
+    "英単語": "ahead",
+    "英語意味": "having the leading position or higher score in a contest",
+    "日本語意味": "先に"
+  },
+  {
+    "英単語": "air",
+    "英語意味": "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+    "日本語意味": "空気"
+  },
+  {
+    "英単語": "aisle",
+    "英語意味": "a long narrow passage (as in a cave or woods)",
+    "日本語意味": "通路"
+  },
+  {
+    "英単語": "alarm",
+    "英語意味": "fear resulting from the awareness of danger",
+    "日本語意味": "警報"
+  },
+  {
+    "英単語": "alive",
+    "英語意味": "possessing life",
+    "日本語意味": "生きています"
+  },
+  {
+    "英単語": "all",
+    "英語意味": "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+    "日本語意味": "すべて"
+  },
+  {
+    "英単語": "allow",
+    "英語意味": "make it possible through a specific action or lack of action for something to happen",
+    "日本語意味": "許します"
+  },
+  {
+    "英単語": "alone",
+    "英語意味": "isolated from others",
+    "日本語意味": "一人で"
+  },
+  {
+    "英単語": "along",
+    "英語意味": "with a forward motion",
+    "日本語意味": "沿って"
+  },
+  {
+    "英単語": "alright",
+    "英語意味": "nonstandard usage",
+    "日本語意味": "大丈夫"
+  },
+  {
+    "英単語": "ambition",
+    "英語意味": "a cherished desire",
+    "日本語意味": "野心"
+  },
+  {
+    "英単語": "amused",
+    "英語意味": "occupy in an agreeable, entertaining or pleasant fashion",
+    "日本語意味": "おもしろがりました"
+  },
+  {
+    "英単語": "amusement",
+    "英語意味": "a feeling of delight at being entertained",
+    "日本語意味": "アミューズメント"
+  },
+  {
+    "英単語": "ancestor",
+    "英語意味": "someone from whom you are descended (but usually more remote than a grandparent)",
+    "日本語意味": "祖先"
+  },
+  {
+    "英単語": "ancient",
+    "英語意味": "a very old person",
+    "日本語意味": "古代"
+  },
+  {
+    "英単語": "angel",
+    "英語意味": "spiritual being attendant upon God",
+    "日本語意味": "天使"
+  },
+  {
+    "英単語": "angrily",
+    "英語意味": "with anger",
+    "日本語意味": "怒って"
+  },
+  {
+    "英単語": "ankle",
+    "英語意味": "a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus",
+    "日本語意味": "足首"
+  },
+  {
+    "英単語": "anniversary",
+    "英語意味": "the date on which an event occurred in some previous year (or the celebration of it)",
+    "日本語意味": "記念日"
+  },
+  {
+    "英単語": "annoy",
+    "英語意味": "cause annoyance in; disturb, especially by minor irritations",
+    "日本語意味": "いらいらさせます"
+  },
+  {
+    "英単語": "annoying",
+    "英語意味": "the act of troubling or annoying someone",
+    "日本語意味": "迷惑な"
+  },
+  {
+    "英単語": "another",
+    "英語意味": "any of various alternatives; some other",
+    "日本語意味": "別の"
+  },
+  {
+    "英単語": "anxious",
+    "英語意味": "eagerly desirous",
+    "日本語意味": "心配して"
+  },
+  {
+    "英単語": "anymore",
+    "英語意味": "at the present or from now on; usually used with a negative",
+    "日本語意味": "もはや"
+  },
+  {
+    "英単語": "anyway",
+    "英語意味": "used to indicate that a statement explains or supports a previous statement",
+    "日本語意味": "とにかく"
+  },
+  {
+    "英単語": "anywhere",
+    "英語意味": "at or in or to any place; ; (`anyplace' is used informally for `anywhere')",
+    "日本語意味": "どこでも"
+  },
+  {
+    "英単語": "apart",
+    "英語意味": "remote and separate physically or socially; ; - W.H.Hudson",
+    "日本語意味": "別として"
+  },
+  {
+    "英単語": "apartment",
+    "英語意味": "a suite of rooms usually on one floor of an apartment house",
+    "日本語意味": "アパート"
+  },
+  {
+    "英単語": "apologize",
+    "英語意味": "acknowledge faults or shortcomings or failing",
+    "日本語意味": "謝ります"
+  },
+  {
+    "英単語": "apparently",
+    "英語意味": "from appearances alone; ; ; -Thomas Hardy",
+    "日本語意味": "明らかに"
+  },
+  {
+    "英単語": "appear",
+    "英語意味": "give a certain impression or have a certain outward aspect",
+    "日本語意味": "現れる"
+  },
+  {
+    "英単語": "appearance",
+    "英語意味": "outward or visible aspect of a person or thing",
+    "日本語意味": "外観"
+  },
+  {
+    "英単語": "apply",
+    "英語意味": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "日本語意味": "適用します"
+  },
+  {
+    "英単語": "appointment",
+    "英語意味": "the act of putting a person into a non-elective position",
+    "日本語意味": "任命"
+  },
+  {
+    "英単語": "appreciate",
+    "英語意味": "recognize with gratitude; be grateful for",
+    "日本語意味": "感謝する"
+  },
+  {
+    "英単語": "appropriate",
+    "英語意味": "give or assign a resource to a particular person or cause",
+    "日本語意味": "適切な"
+  },
+  {
+    "英単語": "architecture",
+    "英語意味": "an architectural product or work",
+    "日本語意味": "建築"
+  },
+  {
+    "英単語": "area",
+    "英語意味": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+    "日本語意味": "範囲"
+  },
+  {
+    "英単語": "argue",
+    "英語意味": "present reasons and arguments",
+    "日本語意味": "論じます"
+  },
+  {
+    "英単語": "argument",
+    "英語意味": "a fact or assertion offered as evidence that something is true",
+    "日本語意味": "引数"
+  },
+  {
+    "英単語": "armchair",
+    "英語意味": "chair with a support on each side for arms",
+    "日本語意味": "アームチェア"
+  },
+  {
+    "英単語": "armed",
+    "英語意味": "prepare oneself for a military confrontation",
+    "日本語意味": "武装しました"
+  },
+  {
+    "英単語": "around",
+    "英語意味": "in the area or vicinity",
+    "日本語意味": "周りに"
+  },
+  {
+    "英単語": "artificial",
+    "英語意味": "contrived by art rather than nature",
+    "日本語意味": "人工的な"
+  },
+  {
+    "英単語": "as",
+    "英語意味": "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
+    "日本語意味": "なので"
+  },
+  {
+    "英単語": "asleep",
+    "英語意味": "in a state of sleep",
+    "日本語意味": "眠っています"
+  },
+  {
+    "英単語": "assistant",
+    "英語意味": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+    "日本語意味": "アシスタント"
+  },
+  {
+    "英単語": "association",
+    "英語意味": "a formal organization of people or groups of people",
+    "日本語意味": "協会"
+  },
+  {
+    "英単語": "astronaut",
+    "英語意味": "a person trained to travel in a spacecraft",
+    "日本語意味": "宇宙飛行士"
+  },
+  {
+    "英単語": "athlete",
+    "英語意味": "a person trained to compete in sports",
+    "日本語意味": "アスリート"
+  },
+  {
+    "英単語": "atom",
+    "英語意味": "(physics and chemistry) the smallest component of an element having the chemical properties of the element",
+    "日本語意味": "原子"
+  },
+  {
+    "英単語": "attack",
+    "英語意味": "(military) an offensive against an enemy (using weapons)",
+    "日本語意味": "攻撃"
+  },
+  {
+    "英単語": "attempt",
+    "英語意味": "earnest and conscientious activity intended to do or accomplish something",
+    "日本語意味": "試み"
+  },
+  {
+    "英単語": "attention",
+    "英語意味": "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others",
+    "日本語意味": "注意"
+  },
+  {
+    "英単語": "attitude",
+    "英語意味": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+    "日本語意味": "姿勢"
+  },
+  {
+    "英単語": "attractive",
+    "英語意味": "pleasing to the eye or mind especially through beauty or charm",
+    "日本語意味": "魅力的"
+  },
+  {
+    "英単語": "audience",
+    "英語意味": "a gathering of spectators or listeners at a (usually public) performance",
+    "日本語意味": "聴衆"
+  },
+  {
+    "英単語": "audio",
+    "英語意味": "the audible part of a transmitted signal",
+    "日本語意味": "オーディオ"
+  },
+  {
+    "英単語": "author",
+    "英語意味": "writes (books or stories or articles or the like) professionally (for pay)",
+    "日本語意味": "著者"
+  },
+  {
+    "英単語": "automatic",
+    "英語意味": "light machine gun",
+    "日本語意味": "オートマチック"
+  },
+  {
+    "英単語": "automatically",
+    "英語意味": "in a reflex manner",
+    "日本語意味": "自動的に"
+  },
+  {
+    "英単語": "average",
+    "英語意味": "a statistic describing the location of a distribution",
+    "日本語意味": "平均"
+  },
+  {
+    "英単語": "avoid",
+    "英語意味": "stay clear from; keep away from; keep out of the way of someone or something",
+    "日本語意味": "避ける"
+  },
+  {
+    "英単語": "award",
+    "英語意味": "a grant made by a law court",
+    "日本語意味": "賞"
+  },
+  {
+    "英単語": "awful",
+    "英語意味": "exceptionally bad or displeasing",
+    "日本語意味": "酷いです"
+  },
+  {
+    "英単語": "back",
+    "英語意味": "the posterior part of a human (or animal) body from the neck to the end of the spine",
+    "日本語意味": "バック"
+  },
+  {
+    "英単語": "background",
+    "英語意味": "a person's social heritage: previous experience or training",
+    "日本語意味": "バックグラウンド"
+  },
+  {
+    "英単語": "badly",
+    "英語意味": "to a severe or serious degree",
+    "日本語意味": "ひどく"
+  },
+  {
+    "英単語": "badminton",
+    "英語意味": "a game played on a court with light long-handled rackets used to volley a shuttlecock over a net",
+    "日本語意味": "バドミントン"
+  },
+  {
+    "英単語": "bake",
+    "英語意味": "cook and make edible by putting in a hot oven",
+    "日本語意味": "焼く"
+  },
+  {
+    "英単語": "balcony",
+    "英語意味": "an upper floor projecting from the rear over the main floor in an auditorium",
+    "日本語意味": "バルコニー"
+  },
+  {
+    "英単語": "balloon",
+    "英語意味": "large tough nonrigid bag filled with gas or heated air",
+    "日本語意味": "バルーン"
+  },
+  {
+    "英単語": "bank",
+    "英語意味": "sloping land (especially the slope beside a body of water)",
+    "日本語意味": "バンク"
+  },
+  {
+    "英単語": "banking",
+    "英語意味": "engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.",
+    "日本語意味": "バンキング"
+  },
+  {
+    "英単語": "barbecue",
+    "英語意味": "meat that has been barbecued or grilled in a highly seasoned sauce",
+    "日本語意味": "バーベキュー"
+  },
+  {
+    "英単語": "barber",
+    "英語意味": "United States composer (1910-1981)",
+    "日本語意味": "床屋"
+  },
+  {
+    "英単語": "bargain",
+    "英語意味": "an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+    "日本語意味": "バーゲン"
+  },
+  {
+    "英単語": "base",
+    "英語意味": "installation from which a military force initiates operations",
+    "日本語意味": "ベース"
+  },
+  {
+    "英単語": "basic",
+    "英語意味": "a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use",
+    "日本語意味": "基本的な"
+  },
+  {
+    "英単語": "basically",
+    "英語意味": "in essence; at bottom or by one's (or its) very nature",
+    "日本語意味": "基本的に"
+  },
+  {
+    "英単語": "basket",
+    "英語意味": "a container that is usually woven and has handles",
+    "日本語意味": "バスケット"
+  },
+  {
+    "英単語": "batch",
+    "英語意味": "all the loaves of bread baked at the same time",
+    "日本語意味": "バッチ"
+  },
+  {
+    "英単語": "battery",
+    "英語意味": "group of guns or missile launchers operated together at one place",
+    "日本語意味": "電池"
+  },
+  {
+    "英単語": "bay",
+    "英語意味": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+    "日本語意味": "ベイ"
+  },
+  {
+    "英単語": "bear",
+    "英語意味": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+    "日本語意味": "くま"
+  },
+  {
+    "英単語": "beauty",
+    "英語意味": "the qualities that give pleasure to the senses",
+    "日本語意味": "美しさ"
+  },
+  {
+    "英単語": "been",
+    "英語意味": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+    "日本語意味": "き"
+  },
+  {
+    "英単語": "beer",
+    "英語意味": "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
+    "日本語意味": "ビール"
+  },
+  {
+    "英単語": "before",
+    "英語意味": "earlier in time; previously",
+    "日本語意味": "前"
+  },
+  {
+    "英単語": "beg",
+    "英語意味": "call upon in supplication; entreat",
+    "日本語意味": "頼みます"
+  },
+  {
+    "英単語": "beginner",
+    "英語意味": "someone new to a field or activity",
+    "日本語意味": "初心者"
+  },
+  {
+    "英単語": "beginning",
+    "英語意味": "the event consisting of the start of something",
+    "日本語意味": "初め"
+  },
+  {
+    "英単語": "behavior",
+    "英語意味": "manner of acting or controlling yourself",
+    "日本語意味": "動作"
+  },
+  {
+    "英単語": "being",
+    "英語意味": "the state or fact of existing",
+    "日本語意味": "であること"
+  },
+  {
+    "英単語": "belly",
+    "英語意味": "the region of the body of a vertebrate between the thorax and the pelvis",
+    "日本語意味": "腹"
+  },
+  {
+    "英単語": "belong",
+    "英語意味": "be owned by; be in the possession of",
+    "日本語意味": "属する"
+  },
+  {
+    "英単語": "belt",
+    "英語意味": "endless loop of flexible material between two rotating shafts or pulleys",
+    "日本語意味": "ベルト"
+  },
+  {
+    "英単語": "bench",
+    "英語意味": "a long seat for more than one person",
+    "日本語意味": "ベンチ"
+  },
+  {
+    "英単語": "bend",
+    "英語意味": "a circular segment of a curve",
+    "日本語意味": "曲がり"
+  },
+  {
+    "英単語": "besides",
+    "英語意味": "making an additional point; anyway",
+    "日本語意味": "さらに"
+  },
+  {
+    "英単語": "better",
+    "英語意味": "something superior in quality or condition or effect",
+    "日本語意味": "よりよいです"
+  },
+  {
+    "英単語": "beyond",
+    "英語意味": "farther along in space or time or degree",
+    "日本語意味": "超えて"
+  },
+  {
+    "英単語": "bill",
+    "英語意味": "a statute in draft before it becomes law",
+    "日本語意味": "ビル"
+  },
+  {
+    "英単語": "bit",
+    "英語意味": "a small piece or quantity of something",
+    "日本語意味": "ビット"
+  },
+  {
+    "英単語": "bite",
+    "英語意味": "a wound resulting from biting by an animal or a person",
+    "日本語意味": "一口"
+  },
+  {
+    "英単語": "blackboard",
+    "英語意味": "sheet of slate; for writing with chalk",
+    "日本語意味": "黒板"
+  },
+  {
+    "英単語": "blame",
+    "英語意味": "an accusation that you are responsible for some lapse or misdeed",
+    "日本語意味": "責め"
+  },
+  {
+    "英単語": "blanket",
+    "英語意味": "bedding that keeps a person warm in bed",
+    "日本語意味": "毛布"
+  },
+  {
+    "英単語": "blonde",
+    "英語意味": "a person with fair skin and hair",
+    "日本語意味": "ブロンド"
+  },
+  {
+    "英単語": "blood",
+    "英語意味": "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+    "日本語意味": "血液"
+  },
+  {
+    "英単語": "bloom",
+    "英語意味": "the organic process of bearing flowers",
+    "日本語意味": "咲く"
+  },
+  {
+    "英単語": "blow",
+    "英語意味": "a powerful stroke with the fist or a weapon",
+    "日本語意味": "ブロー"
+  },
+  {
+    "英単語": "boil",
+    "英語意味": "a painful sore with a hard core filled with pus",
+    "日本語意味": "煮ます"
+  },
+  {
+    "英単語": "boiled",
+    "英語意味": "come to the boiling point and change from a liquid to vapor",
+    "日本語意味": "茹でました"
+  },
+  {
+    "英単語": "bonus",
+    "英語意味": "anything that tends to arouse",
+    "日本語意味": "ボーナス"
+  },
+  {
+    "英単語": "bookcase",
+    "英語意味": "a piece of furniture with shelves for storing books",
+    "日本語意味": "本棚"
+  },
+  {
+    "英単語": "bookshelf",
+    "英語意味": "a shelf on which to keep books",
+    "日本語意味": "本棚"
+  },
+  {
+    "英単語": "bookshop",
+    "英語意味": "a shop where books are sold",
+    "日本語意味": "書店"
+  },
+  {
+    "英単語": "bored",
+    "英語意味": "cause to be bored",
+    "日本語意味": "退屈"
+  },
+  {
+    "英単語": "boss",
+    "英語意味": "a person who exercises control over workers",
+    "日本語意味": "ボス"
+  },
+  {
+    "英単語": "bother",
+    "英語意味": "an angry disturbance",
+    "日本語意味": "煩わします"
+  },
+  {
+    "英単語": "bra",
+    "英語意味": "an undergarment worn by women to support their breasts",
+    "日本語意味": "ブラジャー"
+  },
+  {
+    "英単語": "brainstorm",
+    "英語意味": "the clear (and often sudden) understanding of a complex situation",
+    "日本語意味": "ブレインストーミング"
+  },
+  {
+    "英単語": "brake",
+    "英語意味": "a restraint used to slow or stop a vehicle",
+    "日本語意味": "ブレーキ"
+  },
+  {
+    "英単語": "branch",
+    "英語意味": "a division of some larger or more complex organization",
+    "日本語意味": "ブランチ"
+  },
+  {
+    "英単語": "brand",
+    "英語意味": "a name given to a product or service",
+    "日本語意味": "ブランド"
+  },
+  {
+    "英単語": "brave",
+    "英語意味": "a North American Indian warrior",
+    "日本語意味": "勇者"
+  },
+  {
+    "英単語": "break",
+    "英語意味": "some abrupt occurrence that interrupts an ongoing activity",
+    "日本語意味": "ブレーク"
+  },
+  {
+    "英単語": "breeze",
+    "英語意味": "a slight wind (usually refreshing)",
+    "日本語意味": "風"
+  },
+  {
+    "英単語": "bride",
+    "英語意味": "a woman who has recently been married",
+    "日本語意味": "花嫁"
+  },
+  {
+    "英単語": "brilliant",
+    "英語意味": "of surpassing excellence",
+    "日本語意味": "鮮やかさ"
+  },
+  {
+    "英単語": "brown",
+    "英語意味": "an orange of low brightness and saturation",
+    "日本語意味": "褐色"
+  },
+  {
+    "英単語": "budget",
+    "英語意味": "a sum of money allocated for a particular purpose",
+    "日本語意味": "予算"
+  },
+  {
+    "英単語": "bug",
+    "英語意味": "general term for any insect or similar creeping or crawling invertebrate",
+    "日本語意味": "バグ"
+  },
+  {
+    "英単語": "bulb",
+    "英語意味": "a modified bud consisting of a thickened globular underground stem serving as a reproductive structure",
+    "日本語意味": "バルブ"
+  },
+  {
+    "英単語": "burn",
+    "英語意味": "pain that feels hot as if it were on fire",
+    "日本語意味": "燃やす"
+  },
+  {
+    "英単語": "bury",
+    "英語意味": "cover from sight",
+    "日本語意味": "埋め込む"
+  },
+  {
+    "英単語": "bush",
+    "英語意味": "a low woody perennial plant usually having several major stems",
+    "日本語意味": "ブッシュ"
+  },
+  {
+    "英単語": "businessman",
+    "英語意味": "a person engaged in commercial or industrial business (especially an owner or executive)",
+    "日本語意味": "ビジネスマン"
+  },
+  {
+    "英単語": "businesswoman",
+    "英語意味": "a female businessperson",
+    "日本語意味": "ビジネスウーマン"
+  },
+  {
+    "英単語": "cab",
+    "英語意味": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+    "日本語意味": "タクシー"
+  },
+  {
+    "英単語": "cafeteria",
+    "英語意味": "a restaurant where you serve yourself and pay a cashier",
+    "日本語意味": "カフェテリア"
+  },
+  {
+    "英単語": "calendar",
+    "英語意味": "a system of timekeeping that defines the beginning and length and divisions of the year",
+    "日本語意味": "カレンダー"
+  },
+  {
+    "英単語": "call",
+    "英語意味": "a telephone connection",
+    "日本語意味": "コール"
+  },
+  {
+    "英単語": "camp",
+    "英語意味": "temporary living quarters specially built by the army for soldiers",
+    "日本語意味": "キャンプ"
+  },
+  {
+    "英単語": "camping",
+    "英語意味": "the act of encamping and living in tents in a camp",
+    "日本語意味": "キャンプ"
+  },
+  {
+    "英単語": "campus",
+    "英語意味": "a field on which the buildings of a university are situated",
+    "日本語意味": "キャンパス"
+  },
+  {
+    "英単語": "can",
+    "英語意味": "airtight sealed metal container for food or drink or paint etc.",
+    "日本語意味": "できる"
+  },
+  {
+    "英単語": "capital",
+    "英語意味": "assets available for use in the production of further assets",
+    "日本語意味": "資本"
+  },
+  {
+    "英単語": "captain",
+    "英語意味": "an officer holding a rank below a major but above a lieutenant",
+    "日本語意味": "キャプテン"
+  },
+  {
+    "英単語": "carrot",
+    "英語意味": "deep orange edible root of the cultivated carrot plant",
+    "日本語意味": "にんじん"
+  },
+  {
+    "英単語": "cash",
+    "英語意味": "money in the form of bills or coins",
+    "日本語意味": "現金"
+  },
+  {
+    "英単語": "cassette",
+    "英語意味": "a container that holds a magnetic tape used for recording or playing sound or video",
+    "日本語意味": "カセット"
+  },
+  {
+    "英単語": "castle",
+    "英語意味": "a large and stately mansion",
+    "日本語意味": "城"
+  },
+  {
+    "英単語": "cause",
+    "英語意味": "events that provide the generative force that is the origin of something",
+    "日本語意味": "原因"
+  },
+  {
+    "英単語": "cent",
+    "英語意味": "a fractional monetary unit of several countries",
+    "日本語意味": "セント"
+  },
+  {
+    "英単語": "center",
+    "英語意味": "an area that is approximately central within some larger region",
+    "日本語意味": "センター"
+  },
+  {
+    "英単語": "centimeter",
+    "英語意味": "a metric unit of length equal to one hundredth of a meter",
+    "日本語意味": "センチメートル"
+  },
+  {
+    "英単語": "century",
+    "英語意味": "a period of 100 years",
+    "日本語意味": "世紀"
+  },
+  {
+    "英単語": "cereal",
+    "英語意味": "grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet",
+    "日本語意味": "穀物"
+  },
+  {
+    "英単語": "certain",
+    "英語意味": "definite but not specified or identified",
+    "日本語意味": "一定"
+  },
+  {
+    "英単語": "certainly",
+    "英語意味": "definitely or positively (`sure' is sometimes used informally for `surely')",
+    "日本語意味": "もちろん"
+  },
+  {
+    "英単語": "chain",
+    "英語意味": "a series of things depending on each other as if linked together",
+    "日本語意味": "鎖"
+  },
+  {
+    "英単語": "chairman",
+    "英語意味": "the officer who presides at the meetings of an organization",
+    "日本語意味": "会長"
+  },
+  {
+    "英単語": "challenge",
+    "英語意味": "a demanding or stimulating situation",
+    "日本語意味": "チャレンジ"
+  },
+  {
+    "英単語": "champagne",
+    "英語意味": "a white sparkling wine either produced in Champagne or resembling that produced there",
+    "日本語意味": "シャンパン"
+  },
+  {
+    "英単語": "championship",
+    "英語意味": "the status of being a champion",
+    "日本語意味": "チャンピオンシップ"
+  },
+  {
+    "英単語": "chance",
+    "英語意味": "a possibility due to a favorable combination of circumstances",
+    "日本語意味": "機会"
+  },
+  {
+    "英単語": "chapter",
+    "英語意味": "a subdivision of a written work; usually numbered and titled",
+    "日本語意味": "章"
+  },
+  {
+    "英単語": "chart",
+    "英語意味": "a visual display of information",
+    "日本語意味": "チャート"
+  },
+  {
+    "英単語": "chat",
+    "英語意味": "an informal conversation",
+    "日本語意味": "チャット"
+  },
+  {
+    "英単語": "cheap",
+    "英語意味": "relatively low in price or charging low prices",
+    "日本語意味": "安いです"
+  },
+  {
+    "英単語": "check",
+    "英語意味": "a written order directing a bank to pay money",
+    "日本語意味": "小切手"
+  },
+  {
+    "英単語": "cheek",
+    "英語意味": "either side of the face below the eyes",
+    "日本語意味": "頬"
+  },
+  {
+    "英単語": "cheer",
+    "英語意味": "a cry or shout of approval",
+    "日本語意味": "歓声"
+  },
+  {
+    "英単語": "chef",
+    "英語意味": "a professional cook",
+    "日本語意味": "シェフ"
+  },
+  {
+    "英単語": "chemical",
+    "英語意味": "material produced by or used in a reaction involving changes in atoms or molecules",
+    "日本語意味": "ケミカル"
+  },
+  {
+    "英単語": "cheque",
+    "英語意味": "a written order directing a bank to pay money",
+    "日本語意味": "小切手"
+  },
+  {
+    "英単語": "chess",
+    "英語意味": "weedy annual native to Europe but widely distributed as a weed especially in wheat",
+    "日本語意味": "チェス"
+  },
+  {
+    "英単語": "chest",
+    "英語意味": "the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates",
+    "日本語意味": "胸"
+  },
+  {
+    "英単語": "childhood",
+    "英語意味": "the time of person's life when they are a child",
+    "日本語意味": "子供時代"
+  },
+  {
+    "英単語": "chili",
+    "英語意味": "ground beef and chili peppers or chili powder often with tomatoes and kidney beans",
+    "日本語意味": "チリ"
+  },
+  {
+    "英単語": "chimpanzee",
+    "英語意味": "intelligent somewhat arboreal ape of equatorial African forests",
+    "日本語意味": "チンパンジー"
+  },
+  {
+    "英単語": "chin",
+    "英語意味": "the protruding part of the lower jaw",
+    "日本語意味": "顎"
+  },
+  {
+    "英単語": "chirp",
+    "英語意味": "a sharp sound made by small birds or insects",
+    "日本語意味": "チャープ"
+  },
+  {
+    "英単語": "choice",
+    "英語意味": "the person or thing chosen or selected",
+    "日本語意味": "選択"
+  },
+  {
+    "英単語": "cigarette",
+    "英語意味": "finely ground tobacco wrapped in paper; for smoking",
+    "日本語意味": "シガレット"
+  },
+  {
+    "英単語": "citizen",
+    "英語意味": "a native or naturalized member of a state or other political community",
+    "日本語意味": "市民"
+  },
+  {
+    "英単語": "claim",
+    "英語意味": "an assertion of a right (as to money or property)",
+    "日本語意味": "請求"
+  },
+  {
+    "英単語": "classic",
+    "英語意味": "a creation of the highest excellence",
+    "日本語意味": "クラシック"
+  },
+  {
+    "英単語": "cleaner",
+    "英語意味": "a preparation used in cleaning something",
+    "日本語意味": "クリーナー"
+  },
+  {
+    "英単語": "clear",
+    "英語意味": "the state of being free of suspicion",
+    "日本語意味": "晴れ"
+  },
+  {
+    "英単語": "clearly",
+    "英語意味": "without doubt or question",
+    "日本語意味": "はっきり"
+  },
+  {
+    "英単語": "clerk",
+    "英語意味": "an employee who performs clerical work (e.g., keeps records or accounts)",
+    "日本語意味": "店員"
+  },
+  {
+    "英単語": "click",
+    "英語意味": "a short light metallic sound",
+    "日本語意味": "クリック"
+  },
+  {
+    "英単語": "climb",
+    "英語意味": "an upward slope or grade (as in a road)",
+    "日本語意味": "登る"
+  },
+  {
+    "英単語": "climbing",
+    "英語意味": "an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)",
+    "日本語意味": "クライミング"
+  },
+  {
+    "英単語": "clone",
+    "英語意味": "a person who is almost identical to another",
+    "日本語意味": "クローン"
+  },
+  {
+    "英単語": "clown",
+    "英語意味": "a rude or vulgar fool",
+    "日本語意味": "ピエロ"
+  },
+  {
+    "英単語": "clue",
+    "英語意味": "a slight indication",
+    "日本語意味": "手掛かり"
+  },
+  {
+    "英単語": "coast",
+    "英語意味": "the shore of a sea or ocean",
+    "日本語意味": "海岸"
+  },
+  {
+    "英単語": "coin",
+    "英語意味": "a flat metal piece (usually a disc) used as money",
+    "日本語意味": "コイン"
+  },
+  {
+    "英単語": "cola",
+    "英語意味": "large genus of African trees bearing kola nuts",
+    "日本語意味": "コーラ"
+  },
+  {
+    "英単語": "colorful",
+    "英語意味": "having striking color",
+    "日本語意味": "カラフル"
+  },
+  {
+    "英単語": "column",
+    "英語意味": "a line of units following one after another",
+    "日本語意味": "カラム"
+  },
+  {
+    "英単語": "comb",
+    "英語意味": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair",
+    "日本語意味": "櫛"
+  },
+  {
+    "英単語": "comfortable",
+    "英語意味": "providing or experiencing physical well-being or relief (`comfy' is informal)",
+    "日本語意味": "快適"
+  },
+  {
+    "英単語": "comic",
+    "英語意味": "a professional performer who tells jokes and performs comical acts",
+    "日本語意味": "漫画"
+  },
+  {
+    "英単語": "commitment",
+    "英語意味": "the trait of sincere and steadfast fixity of purpose",
+    "日本語意味": "コミットメント"
+  },
+  {
+    "英単語": "committee",
+    "英語意味": "a special group delegated to consider some matter;  - Milton Berle",
+    "日本語意味": "委員会"
+  },
+  {
+    "英単語": "common",
+    "英語意味": "a piece of open land for recreational use in an urban area",
+    "日本語意味": "一般"
+  },
+  {
+    "英単語": "communicate",
+    "英語意味": "transmit information",
+    "日本語意味": "コミュニケート"
+  },
+  {
+    "英単語": "communication",
+    "英語意味": "the activity of communicating; the activity of conveying information",
+    "日本語意味": "コミュニケーション"
+  },
+  {
+    "英単語": "company",
+    "英語意味": "an institution created to conduct business",
+    "日本語意味": "会社"
+  },
+  {
+    "英単語": "comparative",
+    "英語意味": "the comparative form of an adjective or adverb",
+    "日本語意味": "比較の"
+  },
+  {
+    "英単語": "compare",
+    "英語意味": "qualities that are comparable",
+    "日本語意味": "比較します"
+  },
+  {
+    "英単語": "competition",
+    "英語意味": "a business relation in which two parties compete to gain customers",
+    "日本語意味": "コンペ"
+  },
+  {
+    "英単語": "complain",
+    "英語意味": "express complaints, discontent, displeasure, or unhappiness",
+    "日本語意味": "文句を言います"
+  },
+  {
+    "英単語": "complaint",
+    "英語意味": "an often persistent bodily disorder or disease; a cause for complaining",
+    "日本語意味": "苦情文句"
+  },
+  {
+    "英単語": "complete",
+    "英語意味": "come or bring to a finish or an end",
+    "日本語意味": "コンプリート"
+  },
+  {
+    "英単語": "composer",
+    "英語意味": "someone who composes music as a profession",
+    "日本語意味": "作曲"
+  },
+  {
+    "英単語": "concentrate",
+    "英語意味": "the desired mineral that is left after impurities have been removed from mined ore",
+    "日本語意味": "集中"
+  },
+  {
+    "英単語": "concern",
+    "英語意味": "something that interests you because it is important or affects you",
+    "日本語意味": "懸念"
+  },
+  {
+    "英単語": "condition",
+    "英語意味": "a state at a particular time",
+    "日本語意味": "状態"
+  },
+  {
+    "英単語": "confident",
+    "英語意味": "having or marked by confidence or assurance",
+    "日本語意味": "自信を持って"
+  },
+  {
+    "英単語": "confuse",
+    "英語意味": "mistake one thing for another",
+    "日本語意味": "混乱させる"
+  },
+  {
+    "英単語": "confused",
+    "英語意味": "mistake one thing for another",
+    "日本語意味": "混乱"
+  },
+  {
+    "英単語": "consequence",
+    "英語意味": "a phenomenon that follows and is caused by some previous phenomenon",
+    "日本語意味": "結果"
+  },
+  {
+    "英単語": "consider",
+    "英語意味": "deem to be",
+    "日本語意味": "考えます"
+  },
+  {
+    "英単語": "consist",
+    "英語意味": "originate (in)",
+    "日本語意味": "成ります"
+  },
+  {
+    "英単語": "contact",
+    "英語意味": "close interaction",
+    "日本語意味": "連絡先"
+  },
+  {
+    "英単語": "container",
+    "英語意味": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
+    "日本語意味": "コンテナ"
+  },
+  {
+    "英単語": "context",
+    "英語意味": "discourse that surrounds a language unit and helps to determine its interpretation",
+    "日本語意味": "環境"
+  },
+  {
+    "英単語": "continent",
+    "英語意味": "one of the large landmasses of the earth",
+    "日本語意味": "大陸"
+  },
+  {
+    "英単語": "continue",
+    "英語意味": "continue a certain state, condition, or activity",
+    "日本語意味": "継続する"
+  },
+  {
+    "英単語": "contrast",
+    "英語意味": "the opposition or dissimilarity of things that are compared; ,",
+    "日本語意味": "コントラスト"
+  },
+  {
+    "英単語": "control",
+    "英語意味": "power to direct or determine",
+    "日本語意味": "コントロール"
+  },
+  {
+    "英単語": "convenience",
+    "英語意味": "the state of being suitable or opportune",
+    "日本語意味": "コンビニエンス"
+  },
+  {
+    "英単語": "convenient",
+    "英語意味": "suited to your comfort or purpose or needs",
+    "日本語意味": "便利"
+  },
+  {
+    "英単語": "cooker",
+    "英語意味": "a utensil for cooking",
+    "日本語意味": "炊飯器"
+  },
+  {
+    "英単語": "cooking",
+    "英語意味": "the act of preparing something (as food) by the application of heat",
+    "日本語意味": "料理"
+  },
+  {
+    "英単語": "cooler",
+    "英語意味": "a refrigerator for cooling liquids",
+    "日本語意味": "クーラー"
+  },
+  {
+    "英単語": "copy",
+    "英語意味": "a reproduction of a written record (e.g. of a legal or school record)",
+    "日本語意味": "コピー"
+  },
+  {
+    "英単語": "correctly",
+    "英語意味": "in an accurate manner",
+    "日本語意味": "正し"
+  },
+  {
+    "英単語": "cost",
+    "英語意味": "the total spent for goods or services including money and time and labor",
+    "日本語意味": "費用"
+  },
+  {
+    "英単語": "count",
+    "英語意味": "the total number counted",
+    "日本語意味": "カウント"
+  },
+  {
+    "英単語": "country",
+    "英語意味": "a politically organized body of people under a single government",
+    "日本語意味": "国"
+  },
+  {
+    "英単語": "countryside",
+    "英語意味": "rural regions",
+    "日本語意味": "田舎"
+  },
+  {
+    "英単語": "couple",
+    "英語意味": "a pair who associate with one another",
+    "日本語意味": "カップル"
+  },
+  {
+    "英単語": "court",
+    "英語意味": "an assembly (including one or more judges) to conduct judicial business",
+    "日本語意味": "裁判所"
+  },
+  {
+    "英単語": "cover",
+    "英語意味": "a covering that serves to conceal or shelter something",
+    "日本語意味": "カバー"
+  },
+  {
+    "英単語": "crazy",
+    "英語意味": "someone deranged and possibly dangerous",
+    "日本語意味": "クレージー"
+  },
+  {
+    "英単語": "cream",
+    "英語意味": "the best people or things in a group",
+    "日本語意味": "クリーム"
+  },
+  {
+    "英単語": "create",
+    "英語意味": "make or cause to be or to become",
+    "日本語意味": "作ります"
+  },
+  {
+    "英単語": "creative",
+    "英語意味": "having the ability or power to create",
+    "日本語意味": "創造的"
+  },
+  {
+    "英単語": "creativity",
+    "英語意味": "the ability to create",
+    "日本語意味": "創造性"
+  },
+  {
+    "英単語": "creature",
+    "英語意味": "a living organism characterized by voluntary movement",
+    "日本語意味": "生物"
+  },
+  {
+    "英単語": "credit",
+    "英語意味": "approval",
+    "日本語意味": "クレジット"
+  },
+  {
+    "英単語": "cricket",
+    "英語意味": "leaping insect; male makes chirping noises by rubbing the forewings together",
+    "日本語意味": "クリケット"
+  },
+  {
+    "英単語": "crime",
+    "英語意味": "(criminal law) an act punishable by law; usually considered an evil act",
+    "日本語意味": "犯罪"
+  },
+  {
+    "英単語": "crisp",
+    "英語意味": "a thin crisp slice of potato fried in deep fat",
+    "日本語意味": "歯切れの良いです"
+  },
+  {
+    "英単語": "criticize",
+    "英語意味": "find fault with; express criticism of; point out real or perceived flaws",
+    "日本語意味": "批判します"
+  },
+  {
+    "英単語": "cross",
+    "英語意味": "a wooden structure consisting of an upright post with a transverse piece",
+    "日本語意味": "クロス"
+  },
+  {
+    "英単語": "crowd",
+    "英語意味": "a large number of things or people considered together",
+    "日本語意味": "群集"
+  },
+  {
+    "英単語": "crowded",
+    "英語意味": "cause to herd, drive, or crowd together",
+    "日本語意味": "混雑"
+  },
+  {
+    "英単語": "crown",
+    "英語意味": "the Crown (or the reigning monarch) as the symbol of the power and authority of a monarchy",
+    "日本語意味": "クラウン"
+  },
+  {
+    "英単語": "cruise",
+    "英語意味": "an ocean trip taken for pleasure",
+    "日本語意味": "クルーズ"
+  },
+  {
+    "英単語": "cry",
+    "英語意味": "a loud utterance; often in protest or opposition",
+    "日本語意味": "泣く"
+  },
+  {
+    "英単語": "cupboard",
+    "英語意味": "a small room (or recess) or cabinet used for storage space",
+    "日本語意味": "食器棚"
+  },
+  {
+    "英単語": "curry",
+    "英語意味": "(East Indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice",
+    "日本語意味": "カレー"
+  },
+  {
+    "英単語": "curse",
+    "英語意味": "profane or obscene expression usually of surprise or anger",
+    "日本語意味": "呪い"
+  },
+  {
+    "英単語": "custom",
+    "英語意味": "accepted or habitual practice",
+    "日本語意味": "カスタム"
+  },
+  {
+    "英単語": "customer",
+    "英語意味": "someone who pays for goods or services",
+    "日本語意味": "お客様"
+  },
+  {
+    "英単語": "cycling",
+    "英語意味": "the sport of traveling on a bicycle or motorcycle",
+    "日本語意味": "サイクリング"
+  },
+  {
+    "英単語": "daily",
+    "英語意味": "a newspaper that is published every day",
+    "日本語意味": "日々"
+  },
+  {
+    "英単語": "dam",
+    "英語意味": "a barrier constructed to contain the flow of water or to keep out the sea",
+    "日本語意味": "ダム"
+  },
+  {
+    "英単語": "dancer",
+    "英語意味": "a performer who dances professionally",
+    "日本語意味": "踊り子"
+  },
+  {
+    "英単語": "danger",
+    "英語意味": "the condition of being susceptible to harm or injury",
+    "日本語意味": "危険"
+  },
+  {
+    "英単語": "dangerous",
+    "英語意味": "involving or causing danger or risk; liable to hurt or harm",
+    "日本語意味": "危険な"
+  },
+  {
+    "英単語": "daylight",
+    "英語意味": "the time after sunrise and before sunset while it is light outside",
+    "日本語意味": "明け"
+  },
+  {
+    "英単語": "dead",
+    "英語意味": "people who are no longer living",
+    "日本語意味": "デッド"
+  },
+  {
+    "英単語": "deal",
+    "英語意味": "a particular instance of buying or selling",
+    "日本語意味": "対処"
+  },
+  {
+    "英単語": "death",
+    "英語意味": "the event of dying or departure from life",
+    "日本語意味": "死"
+  },
+  {
+    "英単語": "debate",
+    "英語意味": "a discussion in which reasons are advanced for and against some proposition or proposal",
+    "日本語意味": "ディベート"
+  },
+  {
+    "英単語": "decide",
+    "英語意味": "reach, make, or come to a decision about something",
+    "日本語意味": "決めます"
+  },
+  {
+    "英単語": "deep",
+    "英語意味": "the central and most intense or profound part",
+    "日本語意味": "深い"
+  },
+  {
+    "英単語": "deeply",
+    "英語意味": "to a great depth psychologically",
+    "日本語意味": "深く"
+  },
+  {
+    "英単語": "degree",
+    "英語意味": "a position on a scale of intensity or amount or quality",
+    "日本語意味": "程度"
+  },
+  {
+    "英単語": "delay",
+    "英語意味": "time during which some action is awaited",
+    "日本語意味": "ディレイ"
+  },
+  {
+    "英単語": "dentist",
+    "英語意味": "a person qualified to practice dentistry",
+    "日本語意味": "歯科医"
+  },
+  {
+    "英単語": "depend",
+    "英語意味": "be contingent upon (something that is elided)",
+    "日本語意味": "依存"
+  },
+  {
+    "英単語": "description",
+    "英語意味": "a statement that represents something in words",
+    "日本語意味": "説明"
+  },
+  {
+    "英単語": "desert",
+    "英語意味": "arid land with little or no vegetation",
+    "日本語意味": "砂漠"
+  },
+  {
+    "英単語": "dessert",
+    "英語意味": "a dish served as the last course of a meal",
+    "日本語意味": "デザート"
+  },
+  {
+    "英単語": "destroy",
+    "英語意味": "do away with, cause the destruction or undoing of",
+    "日本語意味": "破壊"
+  },
+  {
+    "英単語": "detail",
+    "英語意味": "an isolated fact that is considered separately from the whole",
+    "日本語意味": "ディテール"
+  },
+  {
+    "英単語": "develop",
+    "英語意味": "make something new, such as a product or a mental or artistic creation",
+    "日本語意味": "発展させる"
+  },
+  {
+    "英単語": "developed",
+    "英語意味": "make something new, such as a product or a mental or artistic creation",
+    "日本語意味": "発展した"
+  },
+  {
+    "英単語": "diamond",
+    "英語意味": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem",
+    "日本語意味": "ダイヤモンド"
+  },
+  {
+    "英単語": "diary",
+    "英語意味": "a daily written record of (usually personal) experiences and observations",
+    "日本語意味": "日記"
+  },
+  {
+    "英単語": "die",
+    "英語意味": "a small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers",
+    "日本語意味": "死にます"
+  },
+  {
+    "英単語": "diet",
+    "英語意味": "a prescribed selection of foods",
+    "日本語意味": "ダイエット"
+  },
+  {
+    "英単語": "differently",
+    "英語意味": "in another and different manner",
+    "日本語意味": "異なっ"
+  },
+  {
+    "英単語": "difficulty",
+    "英語意味": "an effort that is inconvenient",
+    "日本語意味": "困難"
+  },
+  {
+    "英単語": "dinosaur",
+    "英語意味": "any of numerous extinct terrestrial reptiles of the Mesozoic era",
+    "日本語意味": "恐竜"
+  },
+  {
+    "英単語": "direct",
+    "英語意味": "command with authority",
+    "日本語意味": "直接"
+  },
+  {
+    "英単語": "direction",
+    "英語意味": "a line leading to a place or point",
+    "日本語意味": "方向"
+  },
+  {
+    "英単語": "director",
+    "英語意味": "someone who controls resources and expenditures",
+    "日本語意味": "ディレクター"
+  },
+  {
+    "英単語": "disadvantage",
+    "英語意味": "the quality of having an inferior or less favorable position",
+    "日本語意味": "不利益"
+  },
+  {
+    "英単語": "disagree",
+    "英語意味": "be of different opinions",
+    "日本語意味": "同意"
+  },
+  {
+    "英単語": "disappear",
+    "英語意味": "get lost, as without warning or explanation",
+    "日本語意味": "姿を消す"
+  },
+  {
+    "英単語": "disappointed",
+    "英語意味": "fail to meet the hopes or expectations of",
+    "日本語意味": "失望"
+  },
+  {
+    "英単語": "disappointing",
+    "英語意味": "fail to meet the hopes or expectations of",
+    "日本語意味": "失望"
+  },
+  {
+    "英単語": "disco",
+    "英語意味": "popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques",
+    "日本語意味": "ディスコ"
+  },
+  {
+    "英単語": "discover",
+    "英語意味": "discover or determine the existence, presence, or fact of",
+    "日本語意味": "発見する"
+  },
+  {
+    "英単語": "discussion",
+    "英語意味": "an extended communication (often interactive) dealing with some particular topic",
+    "日本語意味": "討論"
+  },
+  {
+    "英単語": "dishonest",
+    "英語意味": "deceptive or fraudulent; disposed to cheat or defraud or deceive",
+    "日本語意味": "不正直"
+  },
+  {
+    "英単語": "dislike",
+    "英語意味": "an inclination to withhold approval from some person or group",
+    "日本語意味": "嫌い"
+  },
+  {
+    "英単語": "display",
+    "英語意味": "something intended to communicate a particular impression",
+    "日本語意味": "表示"
+  },
+  {
+    "英単語": "disturb",
+    "英語意味": "move deeply",
+    "日本語意味": "乱す"
+  },
+  {
+    "英単語": "divide",
+    "英語意味": "a serious disagreement between two groups of people (typically producing tension or hostility)",
+    "日本語意味": "分割"
+  },
+  {
+    "英単語": "dizzy",
+    "英語意味": "make dizzy or giddy",
+    "日本語意味": "めまいが"
+  },
+  {
+    "英単語": "done",
+    "英語意味": "engage in",
+    "日本語意味": "行われ"
+  },
+  {
+    "英単語": "double",
+    "英語意味": "a base hit on which the batter stops safely at second base",
+    "日本語意味": "ダブル"
+  },
+  {
+    "英単語": "doubt",
+    "英語意味": "the state of being unsure of something",
+    "日本語意味": "疑問に思う"
+  },
+  {
+    "英単語": "down",
+    "英語意味": "soft fine feathers",
+    "日本語意味": "ダウン"
+  },
+  {
+    "英単語": "download",
+    "英語意味": "transfer a file or program from a central computer to a smaller computer or to a computer at a remote location",
+    "日本語意味": "ダウンロード"
+  },
+  {
+    "英単語": "downstairs",
+    "英語意味": "on or of lower floors of a building",
+    "日本語意味": "階下"
+  },
+  {
+    "英単語": "downtown",
+    "英語意味": "the central area or commercial center of a town or city",
+    "日本語意味": "ダウンタウン"
+  },
+  {
+    "英単語": "draw",
+    "英語意味": "a gully that is shallower than a ravine",
+    "日本語意味": "ドロー"
+  },
+  {
+    "英単語": "drawer",
+    "英語意味": "a boxlike container in a piece of furniture; made so as to slide in and out",
+    "日本語意味": "引き出し"
+  },
+  {
+    "英単語": "drawing",
+    "英語意味": "an illustration that is drawn by hand and published in a book, magazine, or newspaper",
+    "日本語意味": "図"
+  },
+  {
+    "英単語": "dream",
+    "英語意味": "a series of mental images and emotions occurring during sleep",
+    "日本語意味": "夢"
+  },
+  {
+    "英単語": "dress",
+    "英語意味": "a one-piece garment for a woman; has skirt and bodice",
+    "日本語意味": "ドレス"
+  },
+  {
+    "英単語": "dressed",
+    "英語意味": "put on clothes",
+    "日本語意味": "服を着て"
+  },
+  {
+    "英単語": "drill",
+    "英語意味": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
+    "日本語意味": "ドリル"
+  },
+  {
+    "英単語": "drive",
+    "英語意味": "the act of applying force to propel something",
+    "日本語意味": "ドライブ"
+  },
+  {
+    "英単語": "drop",
+    "英語意味": "a shape that is spherical and small",
+    "日本語意味": "落とす"
+  },
+  {
+    "英単語": "drug",
+    "英語意味": "a substance that is used as a medicine or narcotic",
+    "日本語意味": "薬"
+  },
+  {
+    "英単語": "drugstore",
+    "英語意味": "a retail shop where medicine and other articles are sold",
+    "日本語意味": "薬局"
+  },
+  {
+    "英単語": "dry",
+    "英語意味": "a reformer who opposes the use of intoxicating beverages",
+    "日本語意味": "ドライ"
+  },
+  {
+    "英単語": "duck",
+    "英語意味": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+    "日本語意味": "アヒル"
+  },
+  {
+    "英単語": "dust",
+    "英語意味": "fine powdery material such as dry earth or pollen that can be blown about in the air",
+    "日本語意味": "ほこり"
+  },
+  {
+    "英単語": "early",
+    "英語意味": "at or near the beginning of a period of time or course of events or before the usual or expected time",
+    "日本語意味": "早いです"
+  },
+  {
+    "英単語": "earn",
+    "英語意味": "earn on some commercial or business transaction; earn as salary or wages",
+    "日本語意味": "得ます"
+  },
+  {
+    "英単語": "earring",
+    "英語意味": "jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe",
+    "日本語意味": "イヤリング"
+  },
+  {
+    "英単語": "earth",
+    "英語意味": "the 3rd planet from the sun; the planet we live on",
+    "日本語意味": "地球"
+  },
+  {
+    "英単語": "earthquake",
+    "英語意味": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
+    "日本語意味": "地震"
+  },
+  {
+    "英単語": "easily",
+    "英語意味": "with ease (`easy' is sometimes used informally for `easily')",
+    "日本語意味": "簡単に"
+  },
+  {
+    "英単語": "east",
+    "英語意味": "the cardinal compass point that is at 90 degrees",
+    "日本語意味": "東"
+  },
+  {
+    "英単語": "editor",
+    "英語意味": "a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine)",
+    "日本語意味": "編集者"
+  },
+  {
+    "英単語": "education",
+    "英語意味": "the activities of educating or instructing; activities that impart knowledge or skill",
+    "日本語意味": "教育"
+  },
+  {
+    "英単語": "educational",
+    "英語意味": "relating to the process of education",
+    "日本語意味": "教育の"
+  },
+  {
+    "英単語": "effect",
+    "英語意味": "a phenomenon that follows and is caused by some previous phenomenon",
+    "日本語意味": "効果"
+  },
+  {
+    "英単語": "effort",
+    "英語意味": "earnest and conscientious activity intended to do or accomplish something",
+    "日本語意味": "努力"
+  },
+  {
+    "英単語": "either",
+    "英語意味": "after a negative statement used as an intensive meaning something like `likewise' or `also'",
+    "日本語意味": "どちらか"
+  },
+  {
+    "英単語": "elderly",
+    "英語意味": "people who are old collectively",
+    "日本語意味": "年配"
+  },
+  {
+    "英単語": "electric",
+    "英語意味": "a car that is powered by electricity",
+    "日本語意味": "電気の"
+  },
+  {
+    "英単語": "elephant",
+    "英語意味": "five-toed pachyderm",
+    "日本語意味": "象"
+  },
+  {
+    "英単語": "elevator",
+    "英語意味": "lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building",
+    "日本語意味": "エレベーター"
+  },
+  {
+    "英単語": "elsewhere",
+    "英語意味": "in or to another place",
+    "日本語意味": "他の場所"
+  },
+  {
+    "英単語": "email",
+    "英語意味": "(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in",
+    "日本語意味": "Eメール"
+  },
+  {
+    "英単語": "embarrassing",
+    "英語意味": "cause to be embarrassed; cause to feel self-conscious",
+    "日本語意味": "恥ずかしいです"
+  },
+  {
+    "英単語": "emergency",
+    "英語意味": "a sudden unforeseen crisis (usually involving danger) that requires immediate action",
+    "日本語意味": "緊急"
+  },
+  {
+    "英単語": "empty",
+    "英語意味": "a container that has been emptied",
+    "日本語意味": "空の"
+  },
+  {
+    "英単語": "encourage",
+    "英語意味": "contribute to the progress or growth of",
+    "日本語意味": "奨励します"
+  },
+  {
+    "英単語": "end",
+    "英語意味": "either extremity of something that has length",
+    "日本語意味": "終わり"
+  },
+  {
+    "英単語": "endangered",
+    "英語意味": "pose a threat to; present a danger to",
+    "日本語意味": "絶滅の危機に瀕"
+  },
+  {
+    "英単語": "ending",
+    "英語意味": "the end of a word (a suffix or inflectional ending or final morpheme)",
+    "日本語意味": "エンディング"
+  },
+  {
+    "英単語": "energetic",
+    "英語意味": "possessing or exerting or displaying energy",
+    "日本語意味": "エネルギッシュな"
+  },
+  {
+    "英単語": "enormous",
+    "英語意味": "extraordinarily large in size or extent or amount or power or degree; ; ; ; - Walter Lippman",
+    "日本語意味": "莫大"
+  },
+  {
+    "英単語": "enough",
+    "英語意味": "an adequate quantity; a quantity that is large enough to achieve a purpose",
+    "日本語意味": "足りる"
+  },
+  {
+    "英単語": "enter",
+    "英語意味": "to come or go into",
+    "日本語意味": "入る"
+  },
+  {
+    "英単語": "entertainment",
+    "英語意味": "an activity that is diverting and that holds the attention",
+    "日本語意味": "エンターテインメント"
+  },
+  {
+    "英単語": "entrance",
+    "英語意味": "something that provides access (to get in or get out)",
+    "日本語意味": "入り口"
+  },
+  {
+    "英単語": "envelope",
+    "英語意味": "a flat (usually rectangular) container for a letter, thin package, etc.",
+    "日本語意味": "封筒"
+  },
+  {
+    "英単語": "envy",
+    "英語意味": "a feeling of grudging admiration and desire to have something that is possessed by another",
+    "日本語意味": "羨望"
+  },
+  {
+    "英単語": "episode",
+    "英語意味": "a happening that is distinctive in a series of related events",
+    "日本語意味": "エピソード"
+  },
+  {
+    "英単語": "error",
+    "英語意味": "a wrong action attributable to bad judgment or ignorance or inattention",
+    "日本語意味": "エラー"
+  },
+  {
+    "英単語": "escalator",
+    "英語意味": "a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost of living index)",
+    "日本語意味": "エスカレーター"
+  },
+  {
+    "英単語": "escape",
+    "英語意味": "the act of escaping physically",
+    "日本語意味": "逃れる"
+  },
+  {
+    "英単語": "especially",
+    "英語意味": "to a distinctly greater extent or degree than is common",
+    "日本語意味": "特に"
+  },
+  {
+    "英単語": "essay",
+    "英語意味": "an analytic or interpretive literary composition",
+    "日本語意味": "エッセイ"
+  },
+  {
+    "英単語": "establish",
+    "英語意味": "set up or found",
+    "日本語意味": "確立する"
+  },
+  {
+    "英単語": "euro",
+    "英語意味": "the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies",
+    "日本語意味": "ユーロ"
+  },
+  {
+    "英単語": "even",
+    "英語意味": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+    "日本語意味": "さえ"
+  },
+  {
+    "英単語": "ever",
+    "英語意味": "at any time",
+    "日本語意味": "今までに"
+  },
+  {
+    "英単語": "evidence",
+    "英語意味": "your basis for belief or disbelief; knowledge on which to base belief",
+    "日本語意味": "証拠"
+  },
+  {
+    "英単語": "exactly",
+    "英語意味": "indicating exactness or preciseness",
+    "日本語意味": "丁度"
+  },
+  {
+    "英単語": "exam",
+    "英語意味": "a set of questions or exercises evaluating skill or knowledge",
+    "日本語意味": "試験"
+  },
+  {
+    "英単語": "except",
+    "英語意味": "take exception to",
+    "日本語意味": "除きます"
+  },
+  {
+    "英単語": "exchange",
+    "英語意味": "chemical process in which one atom or ion or group changes places with another",
+    "日本語意味": "両替"
+  },
+  {
+    "英単語": "exercise",
+    "英語意味": "the activity of exerting your muscles in various ways to keep fit",
+    "日本語意味": "運動"
+  },
+  {
+    "英単語": "exhibition",
+    "英語意味": "the act of exhibiting",
+    "日本語意味": "エキシビション"
+  },
+  {
+    "英単語": "exist",
+    "英語意味": "have an existence, be extant",
+    "日本語意味": "が存在"
+  },
+  {
+    "英単語": "expect",
+    "英語意味": "regard something as probable or likely",
+    "日本語意味": "期待します"
+  },
+  {
+    "英単語": "experience",
+    "英語意味": "the accumulation of knowledge or skill that results from direct participation in events or activities",
+    "日本語意味": "経験"
+  },
+  {
+    "英単語": "expert",
+    "英語意味": "a person with special knowledge or ability who performs skillfully",
+    "日本語意味": "専門"
+  },
+  {
+    "英単語": "explain",
+    "英語意味": "make plain and comprehensible",
+    "日本語意味": "説明します"
+  },
+  {
+    "英単語": "explanation",
+    "英語意味": "a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.",
+    "日本語意味": "説明"
+  },
+  {
+    "英単語": "explore",
+    "英語意味": "inquire into",
+    "日本語意味": "見る"
+  },
+  {
+    "英単語": "express",
+    "英語意味": "mail that is distributed by a rapid and efficient system",
+    "日本語意味": "急行"
+  },
+  {
+    "英単語": "expression",
+    "英語意味": "the feelings expressed on a person's face",
+    "日本語意味": "表現"
+  },
+  {
+    "英単語": "extra",
+    "英語意味": "a minor actor in crowd scenes",
+    "日本語意味": "エクストラ"
+  },
+  {
+    "英単語": "extremely",
+    "英語意味": "to a high degree or extent; favorably or with much respect",
+    "日本語意味": "極めて"
+  },
+  {
+    "英単語": "face",
+    "英語意味": "the front of the human head from the forehead to the chin and ear to ear",
+    "日本語意味": "面"
+  },
+  {
+    "英単語": "fact",
+    "英語意味": "a piece of information about circumstances that exist or events that have occurred",
+    "日本語意味": "事実"
+  },
+  {
+    "英単語": "fail",
+    "英語意味": "fail to do something; leave something undone",
+    "日本語意味": "不合格"
+  },
+  {
+    "英単語": "fairly",
+    "英語意味": "to a moderately sufficient extent or degree",
+    "日本語意味": "かなり"
+  },
+  {
+    "英単語": "fall",
+    "英語意味": "the season when the leaves fall from the trees",
+    "日本語意味": "秋"
+  },
+  {
+    "英単語": "familiar",
+    "英語意味": "a person attached to the household of a high official (as a pope or bishop) who renders service in return for support",
+    "日本語意味": "よく知られています"
+  },
+  {
+    "英単語": "fancy",
+    "英語意味": "something many people believe that is false",
+    "日本語意味": "ファンシー"
+  },
+  {
+    "英単語": "fantastic",
+    "英語意味": "ludicrously odd",
+    "日本語意味": "ファンタスティック"
+  },
+  {
+    "英単語": "far",
+    "英語意味": "a terrorist organization that seeks to overthrow the government dominated by Tutsi and to institute Hutu control again",
+    "日本語意味": "遥か"
+  },
+  {
+    "英単語": "fare",
+    "英語意味": "an agenda of things to do",
+    "日本語意味": "運賃"
+  },
+  {
+    "英単語": "fascinating",
+    "英語意味": "cause to be interested or curious",
+    "日本語意味": "魅力的"
+  },
+  {
+    "英単語": "fashion",
+    "英語意味": "how something is done or how it happens",
+    "日本語意味": "ファッション"
+  },
+  {
+    "英単語": "fault",
+    "英語意味": "a wrong action attributable to bad judgment or ignorance or inattention",
+    "日本語意味": "欠陥"
+  },
+  {
+    "英単語": "favor",
+    "英語意味": "an act of gracious kindness",
+    "日本語意味": "好意"
+  },
+  {
+    "英単語": "fear",
+    "英語意味": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+    "日本語意味": "恐れ"
+  },
+  {
+    "英単語": "feather",
+    "英語意味": "the light horny waterproof structure forming the external covering of birds",
+    "日本語意味": "フェザー"
+  },
+  {
+    "英単語": "feature",
+    "英語意味": "a prominent attribute or aspect of something",
+    "日本語意味": "特徴"
+  },
+  {
+    "英単語": "fee",
+    "英語意味": "a fixed charge for a privilege or for professional services",
+    "日本語意味": "費用"
+  },
+  {
+    "英単語": "feel",
+    "英語意味": "an intuitive awareness;  or",
+    "日本語意味": "感じます"
+  },
+  {
+    "英単語": "female",
+    "英語意味": "an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
+    "日本語意味": "女性"
+  },
+  {
+    "英単語": "fence",
+    "英語意味": "a barrier that serves to enclose an area",
+    "日本語意味": "フェンス"
+  },
+  {
+    "英単語": "few",
+    "英語意味": "a small elite group",
+    "日本語意味": "少数"
+  },
+  {
+    "英単語": "fiction",
+    "英語意味": "a literary work based on the imagination and not necessarily on fact",
+    "日本語意味": "フィクション"
+  },
+  {
+    "英単語": "fighter",
+    "英語意味": "someone who fights (or is fighting)",
+    "日本語意味": "戦士"
+  },
+  {
+    "英単語": "figure",
+    "英語意味": "a diagram or picture illustrating textual material",
+    "日本語意味": "フィギュア"
+  },
+  {
+    "英単語": "film",
+    "英語意味": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+    "日本語意味": "映画"
+  },
+  {
+    "英単語": "final",
+    "英語意味": "the final match between the winners of all previous matches in an elimination tournament",
+    "日本語意味": "最後の"
+  },
+  {
+    "英単語": "finally",
+    "英語意味": "after an unspecified period of time or an especially long delay",
+    "日本語意味": "最終的に"
+  },
+  {
+    "英単語": "fisherman",
+    "英語意味": "someone whose occupation is catching fish",
+    "日本語意味": "漁師"
+  },
+  {
+    "英単語": "fit",
+    "英語意味": "a display of bad temper",
+    "日本語意味": "フィット"
+  },
+  {
+    "英単語": "fix",
+    "英語意味": "informal terms for a difficult situation",
+    "日本語意味": "修正"
+  },
+  {
+    "英単語": "flea",
+    "英語意味": "any wingless bloodsucking parasitic insect noted for ability to leap",
+    "日本語意味": "蚤"
+  },
+  {
+    "英単語": "flight",
+    "英語意味": "a formation of aircraft in flight",
+    "日本語意味": "フライト"
+  },
+  {
+    "英単語": "float",
+    "英語意味": "the time interval between the deposit of a check in a bank and its payment",
+    "日本語意味": "浮く"
+  },
+  {
+    "英単語": "flood",
+    "英語意味": "the rising of a body of water and its overflowing onto normally dry land",
+    "日本語意味": "洪水"
+  },
+  {
+    "英単語": "flour",
+    "英語意味": "fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain",
+    "日本語意味": "小麦粉"
+  },
+  {
+    "英単語": "fog",
+    "英語意味": "droplets of water vapor suspended in the air near the ground",
+    "日本語意味": "霧"
+  },
+  {
+    "英単語": "folder",
+    "英語意味": "a small book usually having a paper cover",
+    "日本語意味": "フォルダ"
+  },
+  {
+    "英単語": "follow",
+    "英語意味": "to travel behind, go after, come after",
+    "日本語意味": "従います"
+  },
+  {
+    "英単語": "fool",
+    "英語意味": "a person who lacks good judgment",
+    "日本語意味": "愚か者"
+  },
+  {
+    "英単語": "footballer",
+    "英語意味": "an athlete who plays American football",
+    "日本語意味": "サッカー選手"
+  },
+  {
+    "英単語": "forbid",
+    "英語意味": "command against",
+    "日本語意味": "禁じます"
+  },
+  {
+    "英単語": "force",
+    "英語意味": "a powerful effect or influence",
+    "日本語意味": "力"
+  },
+  {
+    "英単語": "forest",
+    "英語意味": "the trees and other plants in a large densely wooded area",
+    "日本語意味": "森林"
+  },
+  {
+    "英単語": "forever",
+    "英語意味": "for a limitless time; ; - P.P.Bliss",
+    "日本語意味": "永久に"
+  },
+  {
+    "英単語": "fork",
+    "英語意味": "cutlery used for serving and eating food",
+    "日本語意味": "フォーク"
+  },
+  {
+    "英単語": "fortunately",
+    "英語意味": "by good fortune",
+    "日本語意味": "幸運なことに"
+  },
+  {
+    "英単語": "fortune",
+    "英語意味": "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
+    "日本語意味": "幸運"
+  },
+  {
+    "英単語": "forward",
+    "英語意味": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
+    "日本語意味": "前方に"
+  },
+  {
+    "英単語": "frame",
+    "英語意味": "the framework for a pair of eyeglasses",
+    "日本語意味": "フレーム"
+  },
+  {
+    "英単語": "frank",
+    "英語意味": "a member of the ancient Germanic peoples who spread from the Rhine into the Roman Empire in the 4th century",
+    "日本語意味": "フランク"
+  },
+  {
+    "英単語": "free",
+    "英語意味": "people who are free",
+    "日本語意味": "自由"
+  },
+  {
+    "英単語": "freedom",
+    "英語意味": "the condition of being free; the power to act or speak or think without externally imposed restraints",
+    "日本語意味": "自由"
+  },
+  {
+    "英単語": "freeze",
+    "英語意味": "the withdrawal of heat to change something from a liquid to a solid",
+    "日本語意味": "氷結"
+  },
+  {
+    "英単語": "fresh",
+    "英語意味": "recently made, produced, or harvested",
+    "日本語意味": "新鮮な"
+  },
+  {
+    "英単語": "fridge",
+    "英語意味": "a refrigerator in which the coolant is pumped around by an electric motor",
+    "日本語意味": "冷蔵庫"
+  },
+  {
+    "英単語": "fried",
+    "英語意味": "be excessively hot",
+    "日本語意味": "揚げ"
+  },
+  {
+    "英単語": "friendship",
+    "英語意味": "the state of being friends (or friendly)",
+    "日本語意味": "友情"
+  },
+  {
+    "英単語": "frighten",
+    "英語意味": "cause fear in",
+    "日本語意味": "怖がらせます"
+  },
+  {
+    "英単語": "frightened",
+    "英語意味": "cause fear in",
+    "日本語意味": "おびえ"
+  },
+  {
+    "英単語": "frightening",
+    "英語意味": "the act of inspiring with fear",
+    "日本語意味": "怖いです"
+  },
+  {
+    "英単語": "front",
+    "英語意味": "the side that is forward or prominent",
+    "日本語意味": "前面"
+  },
+  {
+    "英単語": "fry",
+    "英語意味": "English painter and art critic (1866-1934)",
+    "日本語意味": "稚魚"
+  },
+  {
+    "英単語": "fully",
+    "英語意味": "to the greatest degree or extent; completely or entirely; (`full' in this sense is used as a combining form)",
+    "日本語意味": "十分"
+  },
+  {
+    "英単語": "function",
+    "英語意味": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+    "日本語意味": "関数"
+  },
+  {
+    "英単語": "furniture",
+    "英語意味": "furnishings that make a room or other area ready for occupancy",
+    "日本語意味": "家具"
+  },
+  {
+    "英単語": "further",
+    "英語意味": "promote the growth of",
+    "日本語意味": "さらに"
+  },
+  {
+    "英単語": "gallery",
+    "英語意味": "spectators at a golf or tennis match",
+    "日本語意味": "画廊"
+  },
+  {
+    "英単語": "garage",
+    "英語意味": "an outbuilding (or part of a building) for housing automobiles",
+    "日本語意味": "ガレージ"
+  },
+  {
+    "英単語": "garlic",
+    "英語意味": "bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves",
+    "日本語意味": "ニンニク"
+  },
+  {
+    "英単語": "gas",
+    "英語意味": "the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container",
+    "日本語意味": "ガス"
+  },
+  {
+    "英単語": "gate",
+    "英語意味": "a movable barrier in a fence or wall",
+    "日本語意味": "ゲート"
+  },
+  {
+    "英単語": "gather",
+    "英語意味": "sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching",
+    "日本語意味": "ギャザー"
+  },
+  {
+    "英単語": "gender",
+    "英語意味": "a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in Indo-European languages it is usually based on sex or animateness",
+    "日本語意味": "性別"
+  },
+  {
+    "英単語": "generation",
+    "英語意味": "all the people living at the same time or of approximately the same age",
+    "日本語意味": "世代"
+  },
+  {
+    "英単語": "gentle",
+    "英語意味": "cause to be more favorably inclined; gain the good will of",
+    "日本語意味": "穏やか"
+  },
+  {
+    "英単語": "given",
+    "英語意味": "an assumption that is taken for granted",
+    "日本語意味": "所与"
+  },
+  {
+    "英単語": "globe",
+    "英語意味": "the 3rd planet from the sun; the planet we live on",
+    "日本語意味": "グローブ"
+  },
+  {
+    "英単語": "glove",
+    "英語意味": "the handwear used by fielders in playing baseball",
+    "日本語意味": "グローブ"
+  },
+  {
+    "英単語": "gold",
+    "英語意味": "coins made of gold",
+    "日本語意味": "ゴールド"
+  },
+  {
+    "英単語": "golden",
+    "英語意味": "having the deep slightly brownish color of gold",
+    "日本語意味": "ゴールデン"
+  },
+  {
+    "英単語": "golf",
+    "英語意味": "a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes",
+    "日本語意味": "ゴルフ"
+  },
+  {
+    "英単語": "good-looking",
+    "英語意味": "pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - Thackeray; - Lillian Hellman",
+    "日本語意味": "ハンサム"
+  },
+  {
+    "英単語": "government",
+    "英語意味": "the organization that is the governing authority of a political unit",
+    "日本語意味": "政府"
+  },
+  {
+    "英単語": "grace",
+    "英語意味": "(Christian theology) a state of sanctification by God; the state of one who is under such divine influence",
+    "日本語意味": "優美"
+  },
+  {
+    "英単語": "gradually",
+    "英語意味": "in a gradual manner",
+    "日本語意味": "徐々に"
+  },
+  {
+    "英単語": "graduate",
+    "英語意味": "a person who has received a degree from a school (high school or college or university)",
+    "日本語意味": "卒業"
+  },
+  {
+    "英単語": "gram",
+    "英語意味": "a metric unit of weight equal to one thousandth of a kilogram",
+    "日本語意味": "グラム"
+  },
+  {
+    "英単語": "grandchild",
+    "英語意味": "a child of your son or daughter",
+    "日本語意味": "孫"
+  },
+  {
+    "英単語": "granddad",
+    "英語意味": "the father of your father or mother",
+    "日本語意味": "祖父"
+  },
+  {
+    "英単語": "granddaughter",
+    "英語意味": "a female grandchild",
+    "日本語意味": "孫娘"
+  },
+  {
+    "英単語": "grandson",
+    "英語意味": "a male grandchild",
+    "日本語意味": "孫"
+  },
+  {
+    "英単語": "granny",
+    "英語意味": "the mother of your father or mother",
+    "日本語意味": "おばあちゃん"
+  },
+  {
+    "英単語": "grateful",
+    "英語意味": "feeling or showing gratitude",
+    "日本語意味": "感謝します"
+  },
+  {
+    "英単語": "greatly",
+    "英語意味": "to an extraordinary extent or degree",
+    "日本語意味": "大幅に"
+  },
+  {
+    "英単語": "greedy",
+    "英語意味": "immoderately desirous of acquiring e.g. wealth",
+    "日本語意味": "貪欲"
+  },
+  {
+    "英単語": "green",
+    "英語意味": "green color or pigment; resembling the color of growing grass",
+    "日本語意味": "緑"
+  },
+  {
+    "英単語": "grilled",
+    "英語意味": "cook over a grill",
+    "日本語意味": "焼き"
+  },
+  {
+    "英単語": "guard",
+    "英語意味": "a person who keeps watch over something or someone",
+    "日本語意味": "ガード"
+  },
+  {
+    "英単語": "guidebook",
+    "英語意味": "something that offers basic information or instruction",
+    "日本語意味": "ガイドブック"
+  },
+  {
+    "英単語": "gun",
+    "英語意味": "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+    "日本語意味": "銃"
+  },
+  {
+    "英単語": "half",
+    "英語意味": "one of two equal parts of a divisible whole",
+    "日本語意味": "ハーフ"
+  },
+  {
+    "英単語": "half-price",
+    "英語意味": "for half the price",
+    "日本語意味": "半額"
+  },
+  {
+    "英単語": "ham",
+    "英語意味": "meat cut from the thigh of a hog (usually smoked)",
+    "日本語意味": "ハム"
+  },
+  {
+    "英単語": "hand",
+    "英語意味": "the (prehensile) extremity of the superior limb",
+    "日本語意味": "手"
+  },
+  {
+    "英単語": "handbag",
+    "英語意味": "a container used for carrying money and small personal items or accessories (especially by women)",
+    "日本語意味": "ハンドバッグ"
+  },
+  {
+    "英単語": "handicapped",
+    "英語意味": "people collectively who are crippled or otherwise physically handicapped",
+    "日本語意味": "障害者"
+  },
+  {
+    "英単語": "handle",
+    "英語意味": "the appendage to an object that is designed to be held in order to use or move it",
+    "日本語意味": "扱う"
+  },
+  {
+    "英単語": "happily",
+    "英語意味": "in a joyous manner",
+    "日本語意味": "幸せに"
+  },
+  {
+    "英単語": "happiness",
+    "英語意味": "state of well-being characterized by emotions ranging from contentment to intense joy",
+    "日本語意味": "幸福"
+  },
+  {
+    "英単語": "hardly",
+    "英語意味": "only a very short time before; ; ; ; ; - W.B.Yeats",
+    "日本語意味": "漸く"
+  },
+  {
+    "英単語": "harm",
+    "英語意味": "any physical damage to the body caused by violence or accident or fracture etc.",
+    "日本語意味": "害"
+  },
+  {
+    "英単語": "harmful",
+    "英語意味": "causing or capable of causing harm",
+    "日本語意味": "有害"
+  },
+  {
+    "英単語": "harmony",
+    "英語意味": "compatibility in opinion and action",
+    "日本語意味": "調和"
+  },
+  {
+    "英単語": "harvest",
+    "英語意味": "the yield from plants in a single growing season",
+    "日本語意味": "収穫"
+  },
+  {
+    "英単語": "hate",
+    "英語意味": "the emotion of intense dislike; a feeling of dislike so strong that it demands action",
+    "日本語意味": "嫌い"
+  },
+  {
+    "英単語": "head",
+    "英語意味": "the upper part of the human body or the front part of the body in animals; contains the face and brains",
+    "日本語意味": "頭"
+  },
+  {
+    "英単語": "headphone",
+    "英語意味": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
+    "日本語意味": "ヘッドホン"
+  },
+  {
+    "英単語": "heat",
+    "英語意味": "a form of energy that is transferred by a difference in temperature",
+    "日本語意味": "熱"
+  },
+  {
+    "英単語": "heating",
+    "英語意味": "the process of becoming warmer; a rising temperature",
+    "日本語意味": "暖房"
+  },
+  {
+    "英単語": "heavily",
+    "英語意味": "to a considerable degree",
+    "日本語意味": "ずっしり"
+  },
+  {
+    "英単語": "help",
+    "英語意味": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+    "日本語意味": "助けて"
+  },
+  {
+    "英単語": "helpful",
+    "英語意味": "providing assistance or serving a useful function",
+    "日本語意味": "有用"
+  },
+  {
+    "英単語": "hero",
+    "英語意味": "a man distinguished by exceptional courage and nobility and strength",
+    "日本語意味": "ヒーロー"
+  },
+  {
+    "英単語": "high",
+    "英語意味": "a lofty level or position or degree",
+    "日本語意味": "高い"
+  },
+  {
+    "英単語": "highway",
+    "英語意味": "a major road for any form of motor transport",
+    "日本語意味": "高速道路"
+  },
+  {
+    "英単語": "hike",
+    "英語意味": "a long walk usually for exercise or pleasure",
+    "日本語意味": "ハイク"
+  },
+  {
+    "英単語": "hiking",
+    "英語意味": "a long walk usually for exercise or pleasure",
+    "日本語意味": "ハイキング"
+  },
+  {
+    "英単語": "hit",
+    "英語意味": "(baseball) a successful stroke in an athletic contest (especially in baseball)",
+    "日本語意味": "ヒット"
+  },
+  {
+    "英単語": "hockey",
+    "英語意味": "a game resembling ice hockey that is played on an open field; two opposing teams use curved sticks try to drive a ball into the opponents' net",
+    "日本語意味": "ホッケー"
+  },
+  {
+    "英単語": "hold",
+    "英語意味": "the act of grasping",
+    "日本語意味": "ホールド"
+  },
+  {
+    "英単語": "home",
+    "英語意味": "where you live at a particular time",
+    "日本語意味": "家"
+  },
+  {
+    "英単語": "honey",
+    "英語意味": "a sweet yellow liquid produced by bees",
+    "日本語意味": "はちみつ"
+  },
+  {
+    "英単語": "honor",
+    "英語意味": "a tangible symbol signifying approval or distinction",
+    "日本語意味": "名誉"
+  },
+  {
+    "英単語": "horror",
+    "英語意味": "intense and profound fear",
+    "日本語意味": "ホラー"
+  },
+  {
+    "英単語": "host",
+    "英語意味": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+    "日本語意味": "ホスト"
+  },
+  {
+    "英単語": "however",
+    "英語意味": "despite anything to the contrary (usually following a concession)",
+    "日本語意味": "しかしながら"
+  },
+  {
+    "英単語": "hug",
+    "英語意味": "a tight or amorous embrace",
+    "日本語意味": "抱擁"
+  },
+  {
+    "英単語": "human",
+    "英語意味": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+    "日本語意味": "人間"
+  },
+  {
+    "英単語": "hundred",
+    "英語意味": "ten 10s",
+    "日本語意味": "百"
+  },
+  {
+    "英単語": "hunter",
+    "英語意味": "someone who hunts game",
+    "日本語意味": "猟師"
+  },
+  {
+    "英単語": "hurry",
+    "英語意味": "a condition of urgency making it necessary to hurry",
+    "日本語意味": "急ぎます"
+  },
+  {
+    "英単語": "ID",
+    "英語意味": "a state in the Rocky Mountains",
+    "日本語意味": "ID"
+  },
+  {
+    "英単語": "ill",
+    "英語意味": "an often persistent bodily disorder or disease; a cause for complaining",
+    "日本語意味": "病気で"
+  },
+  {
+    "英単語": "illegal",
+    "英語意味": "prohibited by law or by official or accepted rules",
+    "日本語意味": "違法"
+  },
+  {
+    "英単語": "image",
+    "英語意味": "an iconic mental representation",
+    "日本語意味": "画像"
+  },
+  {
+    "英単語": "imagination",
+    "英語意味": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "日本語意味": "想像力"
+  },
+  {
+    "英単語": "impact",
+    "英語意味": "the striking of one body against another",
+    "日本語意味": "影響"
+  },
+  {
+    "英単語": "impatient",
+    "英語意味": "restless or short-tempered under delay or opposition",
+    "日本語意味": "せっかち"
+  },
+  {
+    "英単語": "importance",
+    "英語意味": "the quality of being important and worthy of note",
+    "日本語意味": "重要性"
+  },
+  {
+    "英単語": "importantly",
+    "英語意味": "in an important way or to an important degree",
+    "日本語意味": "重要なこと"
+  },
+  {
+    "英単語": "impossible",
+    "英語意味": "something that cannot be done",
+    "日本語意味": "不可能な"
+  },
+  {
+    "英単語": "impress",
+    "英語意味": "the act of coercing someone into government service",
+    "日本語意味": "IMPRESS"
+  },
+  {
+    "英単語": "improve",
+    "英語意味": "to make better",
+    "日本語意味": "改善します"
+  },
+  {
+    "英単語": "in",
+    "英語意味": "a unit of length equal to one twelfth of a foot",
+    "日本語意味": "に"
+  },
+  {
+    "英単語": "inch",
+    "英語意味": "a unit of length equal to one twelfth of a foot",
+    "日本語意味": "インチ"
+  },
+  {
+    "英単語": "include",
+    "英語意味": "have as a part, be made up out of",
+    "日本語意味": "含めます"
+  },
+  {
+    "英単語": "increase",
+    "英語意味": "a quantity that is added",
+    "日本語意味": "増加する"
+  },
+  {
+    "英単語": "indeed",
+    "英語意味": "in truth (often tends to intensify)",
+    "日本語意味": "確かに"
+  },
+  {
+    "英単語": "independence",
+    "英語意味": "freedom from control or influence of another or others",
+    "日本語意味": "独立"
+  },
+  {
+    "英単語": "indicate",
+    "英語意味": "be a signal for or a symptom of",
+    "日本語意味": "示す"
+  },
+  {
+    "英単語": "indoor",
+    "英語意味": "located, suited for, or taking place within a building",
+    "日本語意味": "屋内"
+  },
+  {
+    "英単語": "inexpensive",
+    "英語意味": "relatively low in price or charging low prices",
+    "日本語意味": "安価な"
+  },
+  {
+    "英単語": "influence",
+    "英語意味": "a power to affect persons or events especially power based on prestige etc",
+    "日本語意味": "影響"
+  },
+  {
+    "英単語": "injure",
+    "英語意味": "cause injuries or bodily harm to",
+    "日本語意味": "傷行為"
+  },
+  {
+    "英単語": "inner",
+    "英語意味": "located inward; - Leonard Bernstein; - David Denby; - A.R.Gurney,Jr.",
+    "日本語意味": "インナー"
+  },
+  {
+    "英単語": "insect",
+    "英語意味": "small air-breathing arthropod",
+    "日本語意味": "昆虫"
+  },
+  {
+    "英単語": "inside",
+    "英語意味": "the region that is inside of something",
+    "日本語意味": "内部"
+  },
+  {
+    "英単語": "inspiration",
+    "英語意味": "arousal of the mind to special unusual activity or creativity",
+    "日本語意味": "霊感"
+  },
+  {
+    "英単語": "instant",
+    "英語意味": "a very short time (as the time it takes the eye to blink or the heart to beat)",
+    "日本語意味": "インスタント"
+  },
+  {
+    "英単語": "instead",
+    "英語意味": "in place of, or as an alternative to",
+    "日本語意味": "その代わり"
+  },
+  {
+    "英単語": "instrument",
+    "英語意味": "a device that requires skill for proper use",
+    "日本語意味": "器械"
+  },
+  {
+    "英単語": "intelligence",
+    "英語意味": "the ability to comprehend; to understand and profit from experience",
+    "日本語意味": "インテリジェンス"
+  },
+  {
+    "英単語": "intelligent",
+    "英語意味": "having the capacity for thought and reason especially to a high degree",
+    "日本語意味": "インテリジェント"
+  },
+  {
+    "英単語": "interest",
+    "英語意味": "a sense of concern with and curiosity about someone or something",
+    "日本語意味": "関心"
+  },
+  {
+    "英単語": "international",
+    "英語意味": "any of several international socialist organizations",
+    "日本語意味": "インターナショナル"
+  },
+  {
+    "英単語": "invade",
+    "英語意味": "march aggressively into another's territory by military force for the purposes of conquest and occupation",
+    "日本語意味": "侵します"
+  },
+  {
+    "英単語": "invent",
+    "英語意味": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+    "日本語意味": "発明します"
+  },
+  {
+    "英単語": "invention",
+    "英語意味": "the creation of something in the mind",
+    "日本語意味": "発明"
+  },
+  {
+    "英単語": "invite",
+    "英語意味": "a colloquial expression for invitation",
+    "日本語意味": "招待する"
+  },
+  {
+    "英単語": "issue",
+    "英語意味": "an important question that is in dispute and must be settled",
+    "日本語意味": "問題"
+  },
+  {
+    "英単語": "IT",
+    "英語意味": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+    "日本語意味": "それ"
+  },
+  {
+    "英単語": "jam",
+    "英語意味": "preserve of crushed fruit",
+    "日本語意味": "混雑する"
+  },
+  {
+    "英単語": "jelly",
+    "英語意味": "an edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods",
+    "日本語意味": "ゼリー"
+  },
+  {
+    "英単語": "joke",
+    "英語意味": "a humorous anecdote or remark intended to provoke laughter",
+    "日本語意味": "冗談で"
+  },
+  {
+    "英単語": "journey",
+    "英語意味": "the act of traveling from one place to another",
+    "日本語意味": "旅"
+  },
+  {
+    "英単語": "joy",
+    "英語意味": "the emotion of great happiness",
+    "日本語意味": "喜び"
+  },
+  {
+    "英単語": "junior",
+    "英語意味": "term of address for a disrespectful and annoying male",
+    "日本語意味": "ジュニア"
+  },
+  {
+    "英単語": "junk",
+    "英語意味": "the remains of something that has been destroyed or broken up",
+    "日本語意味": "ジャンク"
+  },
+  {
+    "英単語": "killer",
+    "英語意味": "someone who causes the death of a person or animal",
+    "日本語意味": "キラー"
+  },
+  {
+    "英単語": "kilo",
+    "英語意味": "one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites",
+    "日本語意味": "キロ"
+  },
+  {
+    "英単語": "kilogram",
+    "英語意味": "one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites",
+    "日本語意味": "キログラム"
+  },
+  {
+    "英単語": "kilometer",
+    "英語意味": "a metric unit of length equal to 1000 meters (or 0.621371 miles)",
+    "日本語意味": "キロメートル"
+  },
+  {
+    "英単語": "kind",
+    "英語意味": "a category of things distinguished by some common characteristic or quality",
+    "日本語意味": "種類"
+  },
+  {
+    "英単語": "kindly",
+    "英語意味": "showing or motivated by sympathy and understanding and generosity",
+    "日本語意味": "何卒"
+  },
+  {
+    "英単語": "kingdom",
+    "英語意味": "a domain in which something is dominant",
+    "日本語意味": "王国"
+  },
+  {
+    "英単語": "kit",
+    "英語意味": "a case for containing a set of articles",
+    "日本語意味": "キット"
+  },
+  {
+    "英単語": "knock",
+    "英語意味": "the sound of knocking (as on a door or in an engine or bearing)",
+    "日本語意味": "ノック"
+  },
+  {
+    "英単語": "knowledge",
+    "英語意味": "the psychological result of perception and learning and reasoning",
+    "日本語意味": "知識"
+  },
+  {
+    "英単語": "labor",
+    "英語意味": "a social class comprising those who do manual labor or work for wages",
+    "日本語意味": "労働"
+  },
+  {
+    "英単語": "lack",
+    "英語意味": "the state of needing something that is absent or unavailable",
+    "日本語意味": "欠如"
+  },
+  {
+    "英単語": "lake",
+    "英語意味": "a body of (usually fresh) water surrounded by land",
+    "日本語意味": "湖"
+  },
+  {
+    "英単語": "lamp",
+    "英語意味": "an artificial source of visible illumination",
+    "日本語意味": "ランプ"
+  },
+  {
+    "英単語": "land",
+    "英語意味": "the land on which real estate is located",
+    "日本語意味": "土地"
+  },
+  {
+    "英単語": "landscape",
+    "英語意味": "an expanse of scenery that can be seen in a single view",
+    "日本語意味": "ランドスケープ"
+  },
+  {
+    "英単語": "lane",
+    "英語意味": "a narrow way or road",
+    "日本語意味": "Lane"
+  },
+  {
+    "英単語": "last",
+    "英語意味": "the temporal end; the concluding time",
+    "日本語意味": "最終"
+  },
+  {
+    "英単語": "latest",
+    "英語意味": "the most recent news or development",
+    "日本語意味": "最新"
+  },
+  {
+    "英単語": "latter",
+    "英語意味": "the second of two or the second mentioned of two",
+    "日本語意味": "後者"
+  },
+  {
+    "英単語": "law",
+    "英語意味": "the collection of rules imposed by authority",
+    "日本語意味": "法律"
+  },
+  {
+    "英単語": "lawyer",
+    "英語意味": "a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+    "日本語意味": "弁護士"
+  },
+  {
+    "英単語": "laziness",
+    "英語意味": "inactivity resulting from a dislike of work",
+    "日本語意味": "怠惰"
+  },
+  {
+    "英単語": "lead",
+    "英語意味": "an advantage held by a competitor in a race",
+    "日本語意味": "鉛"
+  },
+  {
+    "英単語": "learner",
+    "英語意味": "someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs",
+    "日本語意味": "学習者"
+  },
+  {
+    "英単語": "least",
+    "英語意味": "something that is of no importance",
+    "日本語意味": "最低"
+  },
+  {
+    "英単語": "leather",
+    "英語意味": "an animal skin made smooth and flexible by removing the hair and then tanning",
+    "日本語意味": "レザー"
+  },
+  {
+    "英単語": "left",
+    "英語意味": "location near or direction toward the left side; i.e. the side to the north when a person or object faces east",
+    "日本語意味": "左"
+  },
+  {
+    "英単語": "left-hand",
+    "英語意味": "intended for the left hand",
+    "日本語意味": "左手"
+  },
+  {
+    "英単語": "leisure",
+    "英語意味": "time available for ease and relaxation",
+    "日本語意味": "余暇"
+  },
+  {
+    "英単語": "lemon",
+    "英語意味": "yellow oval fruit with juicy acidic flesh",
+    "日本語意味": "レモン"
+  },
+  {
+    "英単語": "lemonade",
+    "英語意味": "sweetened beverage of diluted lemon juice",
+    "日本語意味": "レモネード"
+  },
+  {
+    "英単語": "lend",
+    "英語意味": "bestow a quality on",
+    "日本語意味": "貸します"
+  },
+  {
+    "英単語": "less",
+    "英語意味": "a chronic inflammatory collagen disease affecting connective tissue (skin or joints)",
+    "日本語意味": "もっと少なく"
+  },
+  {
+    "英単語": "level",
+    "英語意味": "a position on a scale of intensity or amount or quality",
+    "日本語意味": "レベル"
+  },
+  {
+    "英単語": "liberty",
+    "英語意味": "immunity from arbitrary exercise of authority: political independence",
+    "日本語意味": "自由"
+  },
+  {
+    "英単語": "license",
+    "英語意味": "a legal document giving official permission to do something",
+    "日本語意味": "ライセンス"
+  },
+  {
+    "英単語": "lie",
+    "英語意味": "a statement that deviates from or perverts the truth",
+    "日本語意味": "横たわる"
+  },
+  {
+    "英単語": "lifestyle",
+    "英語意味": "a manner of living that reflects the person's values and attitudes",
+    "日本語意味": "ライフスタイル"
+  },
+  {
+    "英単語": "likely",
+    "英語意味": "has a good chance of being the case or of coming about",
+    "日本語意味": "恐らく"
+  },
+  {
+    "英単語": "lip",
+    "英語意味": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+    "日本語意味": "リップ"
+  },
+  {
+    "英単語": "liter",
+    "英語意味": "a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)",
+    "日本語意味": "リットル"
+  },
+  {
+    "英単語": "lively",
+    "英語意味": "full of life and energy",
+    "日本語意味": "にぎやか"
+  },
+  {
+    "英単語": "load",
+    "英語意味": "weight to be borne or conveyed",
+    "日本語意味": "負荷"
+  },
+  {
+    "英単語": "local",
+    "英語意味": "public transport consisting of a bus or train that stops at all stations or stops",
+    "日本語意味": "地元"
+  },
+  {
+    "英単語": "lock",
+    "英語意味": "a fastener fitted to a door or drawer to keep it firmly closed",
+    "日本語意味": "ロック"
+  },
+  {
+    "英単語": "logical",
+    "英語意味": "capable of or reflecting the capability for correct and valid reasoning",
+    "日本語意味": "論理的"
+  },
+  {
+    "英単語": "long",
+    "英語意味": "desire strongly or persistently",
+    "日本語意味": "長いです"
+  },
+  {
+    "英単語": "loose",
+    "英語意味": "grant freedom to; free from confinement",
+    "日本語意味": "緩いです"
+  },
+  {
+    "英単語": "lose",
+    "英語意味": "fail to keep or to maintain; cease to have, either physically or in an abstract sense",
+    "日本語意味": "失う"
+  },
+  {
+    "英単語": "lost",
+    "英語意味": "people who are destined to die soon",
+    "日本語意味": "失われました"
+  },
+  {
+    "英単語": "lot",
+    "英語意味": "(often followed by `of') a large number or amount or extent",
+    "日本語意味": "たくさん"
+  },
+  {
+    "英単語": "loudly",
+    "英語意味": "with relatively high volume",
+    "日本語意味": "大声で"
+  },
+  {
+    "英単語": "lover",
+    "英語意味": "a person who loves someone or is loved by someone",
+    "日本語意味": "恋人"
+  },
+  {
+    "英単語": "low",
+    "英語意味": "an air mass of lower pressure; often brings precipitation",
+    "日本語意味": "低いです"
+  },
+  {
+    "英単語": "luckily",
+    "英語意味": "by good fortune",
+    "日本語意味": "運よく"
+  },
+  {
+    "英単語": "lunchtime",
+    "英語意味": "the customary or habitual hour for eating lunch",
+    "日本語意味": "ランチタイム"
+  },
+  {
+    "英単語": "lyric",
+    "英語意味": "the text of a popular song or musical-comedy number",
+    "日本語意味": "歌詞"
+  },
+  {
+    "英単語": "mad",
+    "英語意味": "roused to anger; - Mark Twain",
+    "日本語意味": "怒っ"
+  },
+  {
+    "英単語": "magic",
+    "英語意味": "any art that invokes supernatural powers",
+    "日本語意味": "マジック"
+  },
+  {
+    "英単語": "mainly",
+    "英語意味": "for the most part",
+    "日本語意味": "主に"
+  },
+  {
+    "英単語": "major",
+    "英語意味": "a commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain",
+    "日本語意味": "主要な"
+  },
+  {
+    "英単語": "maker",
+    "英語意味": "a person who makes things",
+    "日本語意味": "メーカ"
+  },
+  {
+    "英単語": "make-up",
+    "英語意味": "an event that is substituted for a previously cancelled event",
+    "日本語意味": "化粧"
+  },
+  {
+    "英単語": "male",
+    "英語意味": "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)",
+    "日本語意味": "男性"
+  },
+  {
+    "英単語": "mall",
+    "英語意味": "a public area set aside as a pedestrian walk",
+    "日本語意味": "モール"
+  },
+  {
+    "英単語": "manage",
+    "英語意味": "be successful; achieve a goal",
+    "日本語意味": "管理します"
+  },
+  {
+    "英単語": "manager",
+    "英語意味": "someone who controls resources and expenditures",
+    "日本語意味": "マネージャー"
+  },
+  {
+    "英単語": "manner",
+    "英語意味": "how something is done or how it happens",
+    "日本語意味": "やり方"
+  },
+  {
+    "英単語": "mark",
+    "英語意味": "a number or letter indicating quality (especially of a student's performance)",
+    "日本語意味": "マーク"
+  },
+  {
+    "英単語": "market",
+    "英語意味": "the world of commercial activity where goods and services are bought and sold",
+    "日本語意味": "市場"
+  },
+  {
+    "英単語": "married",
+    "英語意味": "a person who is married",
+    "日本語意味": "既婚"
+  },
+  {
+    "英単語": "marry",
+    "英語意味": "take in marriage",
+    "日本語意味": "結婚します"
+  },
+  {
+    "英単語": "marvelous",
+    "英語意味": "extraordinarily good or great ; used especially as intensifiers",
+    "日本語意味": "素晴らしい"
+  },
+  {
+    "英単語": "material",
+    "英語意味": "the tangible substance that goes into the makeup of a physical object",
+    "日本語意味": "材料"
+  },
+  {
+    "英単語": "matter",
+    "英語意味": "a vaguely specified concern",
+    "日本語意味": "案件"
+  },
+  {
+    "英単語": "max",
+    "英語意味": "street names for gamma hydroxybutyrate",
+    "日本語意味": "最大"
+  },
+  {
+    "英単語": "mean",
+    "英語意味": "an average of n numbers computed by adding some function of the numbers and dividing by some function of n",
+    "日本語意味": "平均"
+  },
+  {
+    "英単語": "meaning",
+    "英語意味": "the message that is intended or expressed or signified",
+    "日本語意味": "意味"
+  },
+  {
+    "英単語": "medal",
+    "英語意味": "an award for winning a championship or commemorating some other event",
+    "日本語意味": "メダル"
+  },
+  {
+    "英単語": "medical",
+    "英語意味": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person",
+    "日本語意味": "医療の"
+  },
+  {
+    "英単語": "melon",
+    "英語意味": "any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh",
+    "日本語意味": "メロン"
+  },
+  {
+    "英単語": "member",
+    "英語意味": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+    "日本語意味": "メンバー"
+  },
+  {
+    "英単語": "mention",
+    "英語意味": "a remark that calls attention to something or someone",
+    "日本語意味": "言及"
+  },
+  {
+    "英単語": "menu",
+    "英語意味": "a list of dishes available at a restaurant",
+    "日本語意味": "メニュー"
+  },
+  {
+    "英単語": "metal",
+    "英語意味": "any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.",
+    "日本語意味": "金属"
+  },
+  {
+    "英単語": "meter",
+    "英語意味": "the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)",
+    "日本語意味": "メートル"
+  },
+  {
+    "英単語": "method",
+    "英語意味": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+    "日本語意味": "方法"
+  },
+  {
+    "英単語": "midday",
+    "英語意味": "the middle of the day",
+    "日本語意味": "正午"
+  },
+  {
+    "英単語": "middle",
+    "英語意味": "an area that is approximately central within some larger region",
+    "日本語意味": "中間"
+  },
+  {
+    "英単語": "midnight",
+    "英語意味": "12 o'clock at night; the middle of the night",
+    "日本語意味": "真夜中"
+  },
+  {
+    "英単語": "might",
+    "英語意味": "physical strength",
+    "日本語意味": "かもしれません"
+  },
+  {
+    "英単語": "military",
+    "英語意味": "the military forces of a nation",
+    "日本語意味": "軍事的"
+  },
+  {
+    "英単語": "million",
+    "英語意味": "the number that is represented as a one followed by 6 zeros",
+    "日本語意味": "百万"
+  },
+  {
+    "英単語": "mind",
+    "英語意味": "that which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+    "日本語意味": "マインド"
+  },
+  {
+    "英単語": "mirror",
+    "英語意味": "polished surface that forms images by reflecting light",
+    "日本語意味": "鏡"
+  },
+  {
+    "英単語": "missing",
+    "英語意味": "fail to perceive or to catch with the senses or the mind",
+    "日本語意味": "行方不明"
+  },
+  {
+    "英単語": "mistake",
+    "英語意味": "a wrong action attributable to bad judgment or ignorance or inattention",
+    "日本語意味": "間違い"
+  },
+  {
+    "英単語": "mix",
+    "英語意味": "a commercially prepared mixture of dry ingredients",
+    "日本語意味": "ミックス"
+  },
+  {
+    "英単語": "mobile",
+    "英語意味": "a river in southwestern Alabama; flows into Mobile Bay",
+    "日本語意味": "モバイル"
+  },
+  {
+    "英単語": "model",
+    "英語意味": "a hypothetical description of a complex entity or process",
+    "日本語意味": "モデル"
+  },
+  {
+    "英単語": "modern",
+    "英語意味": "a contemporary person",
+    "日本語意味": "近代的"
+  },
+  {
+    "英単語": "mood",
+    "英語意味": "a characteristic (habitual or relatively temporary) state of feeling",
+    "日本語意味": "気分"
+  },
+  {
+    "英単語": "mosque",
+    "英語意味": "(Islam) a Muslim place of worship that usually has a minaret",
+    "日本語意味": "モスク"
+  },
+  {
+    "英単語": "most",
+    "英語意味": "(superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number",
+    "日本語意味": "最も"
+  },
+  {
+    "英単語": "mostly",
+    "英語意味": "in large part; mainly or chiefly",
+    "日本語意味": "大半"
+  },
+  {
+    "英単語": "motorway",
+    "英語意味": "a broad highway designed for high-speed traffic",
+    "日本語意味": "高速道路"
+  },
+  {
+    "英単語": "move",
+    "英語意味": "the act of deciding to do something",
+    "日本語意味": "動き"
+  },
+  {
+    "英単語": "Ms.",
+    "英語意味": "a form of address for a woman",
+    "日本語意味": "MS。"
+  },
+  {
+    "英単語": "mug",
+    "英語意味": "the quantity that can be held in a mug",
+    "日本語意味": "マグ"
+  },
+  {
+    "英単語": "murder",
+    "英語意味": "unlawful premeditated killing of a human being by a human being",
+    "日本語意味": "殺人"
+  },
+  {
+    "英単語": "museum",
+    "英語意味": "a depository for collecting and displaying objects having scientific or historical or artistic value",
+    "日本語意味": "博物館"
+  },
+  {
+    "英単語": "mushroom",
+    "英語意味": "common name for an edible agaric (contrasting with the inedible toadstool)",
+    "日本語意味": "キノコ"
+  },
+  {
+    "英単語": "musical",
+    "英語意味": "a play or film whose action and dialogue is interspersed with singing and dancing",
+    "日本語意味": "ミュージカル"
+  },
+  {
+    "英単語": "mysterious",
+    "英語意味": "of an obscure nature; ; ; ; - Rachel Carson",
+    "日本語意味": "神秘的"
+  },
+  {
+    "英単語": "mystery",
+    "英語意味": "something that baffles understanding and cannot be explained",
+    "日本語意味": "神秘"
+  },
+  {
+    "英単語": "napkin",
+    "英語意味": "a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing",
+    "日本語意味": "ナプキン"
+  },
+  {
+    "英単語": "nation",
+    "英語意味": "a politically organized body of people under a single government",
+    "日本語意味": "国家"
+  },
+  {
+    "英単語": "national",
+    "英語意味": "a person who owes allegiance to that nation",
+    "日本語意味": "国民"
+  },
+  {
+    "英単語": "native",
+    "英語意味": "an indigenous person who was born in a particular place",
+    "日本語意味": "ネイティブ"
+  },
+  {
+    "英単語": "natural",
+    "英語意味": "someone regarded as certain to succeed",
+    "日本語意味": "ナチュラル"
+  },
+  {
+    "英単語": "nature",
+    "英語意味": "the essential qualities or characteristics by which something is recognized",
+    "日本語意味": "自然"
+  },
+  {
+    "英単語": "nearly",
+    "英語意味": "(of actions or states) slightly short of or not quite accomplished; all but",
+    "日本語意味": "ほとんど"
+  },
+  {
+    "英単語": "necessary",
+    "英語意味": "anything indispensable",
+    "日本語意味": "必要"
+  },
+  {
+    "英単語": "need",
+    "英語意味": "a condition requiring relief",
+    "日本語意味": "必要"
+  },
+  {
+    "英単語": "negative",
+    "英語意味": "a reply of denial",
+    "日本語意味": "負"
+  },
+  {
+    "英単語": "nervous",
+    "英語意味": "easily agitated",
+    "日本語意味": "ナーバス"
+  },
+  {
+    "英単語": "net",
+    "英語意味": "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+    "日本語意味": "ネット"
+  },
+  {
+    "英単語": "next",
+    "英語意味": "immediately following in time or order",
+    "日本語意味": "次"
+  },
+  {
+    "英単語": "nobody",
+    "英語意味": "a person of no influence",
+    "日本語意味": "だれも"
+  },
+  {
+    "英単語": "noisy",
+    "英語意味": "full of or characterized by loud and nonmusical sounds",
+    "日本語意味": "うるさい"
+  },
+  {
+    "英単語": "noon",
+    "英語意味": "the middle of the day",
+    "日本語意味": "正午"
+  },
+  {
+    "英単語": "normal",
+    "英語意味": "something regarded as a normative example",
+    "日本語意味": "正常"
+  },
+  {
+    "英単語": "north",
+    "英語意味": "the region of the United States lying to the north of the Mason-Dixon line",
+    "日本語意味": "北"
+  },
+  {
+    "英単語": "notice",
+    "英語意味": "an announcement containing information about an event; ; ; \"a notice of sale",
+    "日本語意味": "通知"
+  },
+  {
+    "英単語": "noun",
+    "英語意味": "a content word that can be used to refer to a person, place, thing, quality, or action",
+    "日本語意味": "名詞"
+  },
+  {
+    "英単語": "novel",
+    "英語意味": "an extended fictional work in prose; usually in the form of a story",
+    "日本語意味": "小説"
+  },
+  {
+    "英単語": "nowadays",
+    "英語意味": "the period of time that is happening now; any continuous stretch of time including the moment of speech",
+    "日本語意味": "最近"
+  },
+  {
+    "英単語": "oak",
+    "英語意味": "the hard durable wood of any oak; used especially for furniture and flooring",
+    "日本語意味": "オーク"
+  },
+  {
+    "英単語": "occupation",
+    "英語意味": "the principal activity in your life that you do to earn money",
+    "日本語意味": "職業"
+  },
+  {
+    "英単語": "off",
+    "英語意味": "kill intentionally and with premeditation",
+    "日本語意味": "オフ"
+  },
+  {
+    "英単語": "offer",
+    "英語意味": "the verbal act of offering",
+    "日本語意味": "提供"
+  },
+  {
+    "英単語": "official",
+    "英語意味": "a worker who holds or is invested with an office",
+    "日本語意味": "公式"
+  },
+  {
+    "英単語": "oil",
+    "英語意味": "a slippery or viscous liquid or liquefiable substance not miscible with water",
+    "日本語意味": "油"
+  },
+  {
+    "英単語": "Olympic",
+    "英語意味": "of or relating to the Olympic Games",
+    "日本語意味": "オリンピック"
+  },
+  {
+    "英単語": "omelet",
+    "英語意味": "beaten eggs or an egg mixture cooked until just set; may be folded around e.g. ham or cheese or jelly",
+    "日本語意味": "オムレツ"
+  },
+  {
+    "英単語": "on",
+    "英語意味": "in operation or operational",
+    "日本語意味": "オン"
+  },
+  {
+    "英単語": "one",
+    "英語意味": "the smallest whole number or a numeral representing this number",
+    "日本語意味": 1
+  },
+  {
+    "英単語": "onion",
+    "英語意味": "the bulb of an onion plant",
+    "日本語意味": "玉ねぎ"
+  },
+  {
+    "英単語": "online",
+    "英語意味": "on a regular route of a railroad or bus or airline system",
+    "日本語意味": "オンライン"
+  },
+  {
+    "英単語": "operate",
+    "英語意味": "direct or control; projects, businesses, etc.",
+    "日本語意味": "操作します"
+  },
+  {
+    "英単語": "opinion",
+    "英語意味": "a personal belief or judgment that is not founded on proof or certainty",
+    "日本語意味": "意見"
+  },
+  {
+    "英単語": "opportunity",
+    "英語意味": "a possibility due to a favorable combination of circumstances",
+    "日本語意味": "機会"
+  },
+  {
+    "英単語": "oppose",
+    "英語意味": "be against; express opposition to",
+    "日本語意味": "反対します"
+  },
+  {
+    "英単語": "opposite",
+    "英語意味": "a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other",
+    "日本語意味": "逆の"
+  },
+  {
+    "英単語": "order",
+    "英語意味": "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",
+    "日本語意味": "注文"
+  },
+  {
+    "英単語": "organize",
+    "英語意味": "create (as an entity)",
+    "日本語意味": "整理"
+  },
+  {
+    "英単語": "organized",
+    "英語意味": "create (as an entity)",
+    "日本語意味": "組織された"
+  },
+  {
+    "英単語": "original",
+    "英語意味": "an original creation (i.e., an audio recording) from which copies can be made",
+    "日本語意味": "元の"
+  },
+  {
+    "英単語": "orphan",
+    "英語意味": "a child who has lost both parents",
+    "日本語意味": "孤児"
+  },
+  {
+    "英単語": "other",
+    "英語意味": "not the same one or ones already mentioned or implied; - the White Queen",
+    "日本語意味": "他の"
+  },
+  {
+    "英単語": "outside",
+    "英語意味": "the region that is outside of something",
+    "日本語意味": "外側"
+  },
+  {
+    "英単語": "oven",
+    "英語意味": "kitchen appliance used for baking or roasting",
+    "日本語意味": "オーブン"
+  },
+  {
+    "英単語": "over",
+    "英語意味": "(cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch",
+    "日本語意味": "オーバー"
+  },
+  {
+    "英単語": "overseas",
+    "英語意味": "in a foreign country",
+    "日本語意味": "海外の"
+  },
+  {
+    "英単語": "overweight",
+    "英語意味": "the property of excessive fatness",
+    "日本語意味": "過重"
+  },
+  {
+    "英単語": "own",
+    "英語意味": "have ownership or possession of",
+    "日本語意味": "自分の"
+  },
+  {
+    "英単語": "pacific",
+    "英語意味": "the largest ocean in the world",
+    "日本語意味": "パシフィック"
+  },
+  {
+    "英単語": "pack",
+    "英語意味": "a large indefinite number",
+    "日本語意味": "パック"
+  },
+  {
+    "英単語": "painter",
+    "英語意味": "an artist who paints",
+    "日本語意味": "画家"
+  },
+  {
+    "英単語": "pal",
+    "英語意味": "a close friend who accompanies his buddies in their activities",
+    "日本語意味": "友人"
+  },
+  {
+    "英単語": "pan",
+    "英語意味": "cooking utensil consisting of a wide metal vessel",
+    "日本語意味": "パン"
+  },
+  {
+    "英単語": "panic",
+    "英語意味": "an overwhelming feeling of fear and anxiety",
+    "日本語意味": "パニック"
+  },
+  {
+    "英単語": "park",
+    "英語意味": "a large area of land preserved in its natural state as public property",
+    "日本語意味": "パーク"
+  },
+  {
+    "英単語": "part",
+    "英語意味": "something determined in relation to something that includes it",
+    "日本語意味": "部"
+  },
+  {
+    "英単語": "partly",
+    "英語意味": "in part; in some degree; not wholly",
+    "日本語意味": "一部に"
+  },
+  {
+    "英単語": "pass",
+    "英語意味": "(baseball) an advance to first base by a batter who receives four balls",
+    "日本語意味": "パス"
+  },
+  {
+    "英単語": "passage",
+    "英語意味": "the act of passing from one state or place to the next",
+    "日本語意味": "通路"
+  },
+  {
+    "英単語": "passenger",
+    "英語意味": "a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+    "日本語意味": "旅客"
+  },
+  {
+    "英単語": "pasta",
+    "英語意味": "a dish that contains pasta as its main ingredient",
+    "日本語意味": "パスタ"
+  },
+  {
+    "英単語": "path",
+    "英語意味": "a course of conduct",
+    "日本語意味": "道"
+  },
+  {
+    "英単語": "patient",
+    "英語意味": "a person who requires medical care",
+    "日本語意味": "患者"
+  },
+  {
+    "英単語": "PC",
+    "英語意味": "a small digital computer based on a microprocessor and designed to be used by one person at a time",
+    "日本語意味": "パーソナルコンピュータ"
+  },
+  {
+    "英単語": "pea",
+    "英語意味": "seed of a pea plant used for food",
+    "日本語意味": "エンドウ"
+  },
+  {
+    "英単語": "peaceful",
+    "英語意味": "not disturbed by strife or turmoil or war",
+    "日本語意味": "平穏"
+  },
+  {
+    "英単語": "pear",
+    "英語意味": "sweet juicy gritty-textured fruit available in many varieties",
+    "日本語意味": "梨"
+  },
+  {
+    "英単語": "pence",
+    "英語意味": "a fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound",
+    "日本語意味": "ペンス"
+  },
+  {
+    "英単語": "pepper",
+    "英語意味": "climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",
+    "日本語意味": "コショウ"
+  },
+  {
+    "英単語": "perfect",
+    "英語意味": "a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)",
+    "日本語意味": "パーフェクト"
+  },
+  {
+    "英単語": "perfectly",
+    "英語意味": "completely and without qualification; used informally as intensifiers",
+    "日本語意味": "完全に"
+  },
+  {
+    "英単語": "perform",
+    "英語意味": "carry out or perform an action",
+    "日本語意味": "行います"
+  },
+  {
+    "英単語": "performance",
+    "英語意味": "a dramatic or musical entertainment",
+    "日本語意味": "演奏"
+  },
+  {
+    "英単語": "perfume",
+    "英語意味": "a distinctive odor that is pleasant",
+    "日本語意味": "香水"
+  },
+  {
+    "英単語": "perhaps",
+    "英語意味": "by chance",
+    "日本語意味": "多分"
+  },
+  {
+    "英単語": "permission",
+    "英語意味": "approval to do something",
+    "日本語意味": "許可"
+  },
+  {
+    "英単語": "personality",
+    "英語意味": "the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual",
+    "日本語意味": "人"
+  },
+  {
+    "英単語": "petrol",
+    "英語意味": "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines",
+    "日本語意味": "ガソリン"
+  },
+  {
+    "英単語": "photograph",
+    "英語意味": "a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material",
+    "日本語意味": "写真"
+  },
+  {
+    "英単語": "photographer",
+    "英語意味": "someone who takes photographs professionally",
+    "日本語意味": "写真家"
+  },
+  {
+    "英単語": "photography",
+    "英語意味": "the act of taking and printing photographs",
+    "日本語意味": "写真術"
+  },
+  {
+    "英単語": "physical",
+    "英語意味": "involving the body as distinguished from the mind or spirit",
+    "日本語意味": "物理的"
+  },
+  {
+    "英単語": "physically",
+    "英語意味": "in accord with physical laws",
+    "日本語意味": "物理的に"
+  },
+  {
+    "英単語": "pile",
+    "英語意味": "a collection of objects laid on top of each other",
+    "日本語意味": "パイル"
+  },
+  {
+    "英単語": "pilgrim",
+    "英語意味": "someone who journeys in foreign lands",
+    "日本語意味": "巡礼者"
+  },
+  {
+    "英単語": "pill",
+    "英語意味": "something that resembles a tablet of medicine in shape or size",
+    "日本語意味": "ピル"
+  },
+  {
+    "英単語": "pilot",
+    "英語意味": "someone who is licensed to operate an aircraft in flight",
+    "日本語意味": "パイロット"
+  },
+  {
+    "英単語": "pink",
+    "英語意味": "a light shade of red",
+    "日本語意味": "ピンク"
+  },
+  {
+    "英単語": "pity",
+    "英語意味": "a feeling of sympathy and sorrow for the misfortunes of others",
+    "日本語意味": "哀れみ"
+  },
+  {
+    "英単語": "planet",
+    "英語意味": "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction",
+    "日本語意味": "惑星"
+  },
+  {
+    "英単語": "plant",
+    "英語意味": "buildings for carrying on industrial labor",
+    "日本語意味": "工場"
+  },
+  {
+    "英単語": "plastic",
+    "英語意味": "generic name for certain synthetic or semisynthetic materials that can be molded or extruded into objects or films or filaments or used for making e.g. coatings and adhesives",
+    "日本語意味": "プラスチック"
+  },
+  {
+    "英単語": "plate",
+    "英語意味": "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+    "日本語意味": "プレート"
+  },
+  {
+    "英単語": "playful",
+    "英語意味": "full of fun and high spirits",
+    "日本語意味": "遊び心"
+  },
+  {
+    "英単語": "playground",
+    "英語意味": "an area where many people go for recreation",
+    "日本語意味": "遊び場"
+  },
+  {
+    "英単語": "pleasant",
+    "英語意味": "affording pleasure; being in harmony with your taste or likings",
+    "日本語意味": "楽しいです"
+  },
+  {
+    "英単語": "pleased",
+    "英語意味": "give pleasure to or be pleasing to",
+    "日本語意味": "喜んで"
+  },
+  {
+    "英単語": "pleasing",
+    "英語意味": "the act of one who pleases",
+    "日本語意味": "快適"
+  },
+  {
+    "英単語": "plenty",
+    "英語意味": "a full supply",
+    "日本語意味": "豊富"
+  },
+  {
+    "英単語": "plural",
+    "英語意味": "the form of a word that is used to denote more than one",
+    "日本語意味": "複数"
+  },
+  {
+    "英単語": "plus",
+    "英語意味": "a useful or valuable quality",
+    "日本語意味": "プラス"
+  },
+  {
+    "英単語": "point",
+    "英語意味": "a geometric element that has position but no extension",
+    "日本語意味": "ポイント"
+  },
+  {
+    "英単語": "police",
+    "英語意味": "the force of policemen and officers",
+    "日本語意味": "警察"
+  },
+  {
+    "英単語": "policeman",
+    "英語意味": "a member of a police force",
+    "日本語意味": "警官"
+  },
+  {
+    "英単語": "policewoman",
+    "英語意味": "a woman policeman",
+    "日本語意味": "婦警"
+  },
+  {
+    "英単語": "polite",
+    "英語意味": "showing regard for others in manners, speech, behavior, etc.",
+    "日本語意味": "丁寧"
+  },
+  {
+    "英単語": "political",
+    "英語意味": "involving or characteristic of politics or parties or politicians; - Daniel Goleman",
+    "日本語意味": "政治的"
+  },
+  {
+    "英単語": "pollute",
+    "英語意味": "make impure",
+    "日本語意味": "汚染"
+  },
+  {
+    "英単語": "popular",
+    "英語意味": "regarded with great favor, approval, or affection especially by the general public",
+    "日本語意味": "人気のあります"
+  },
+  {
+    "英単語": "population",
+    "英語意味": "the people who inhabit a territory or state",
+    "日本語意味": "人口"
+  },
+  {
+    "英単語": "portrait",
+    "英語意味": "a word picture of a person's appearance and character",
+    "日本語意味": "肖像画"
+  },
+  {
+    "英単語": "position",
+    "英語意味": "the particular portion of space occupied by something",
+    "日本語意味": "ポジション"
+  },
+  {
+    "英単語": "possible",
+    "英語意味": "something that can be done",
+    "日本語意味": "可能"
+  },
+  {
+    "英単語": "possibly",
+    "英語意味": "by chance",
+    "日本語意味": "おそらく"
+  },
+  {
+    "英単語": "post",
+    "英語意味": "the position where someone (as a guard or sentry) stands or is assigned to stand",
+    "日本語意味": "役職"
+  },
+  {
+    "英単語": "pour",
+    "英語意味": "cause to run",
+    "日本語意味": "注ぐ"
+  },
+  {
+    "英単語": "power",
+    "英語意味": "possession of controlling influence",
+    "日本語意味": "パワー"
+  },
+  {
+    "英単語": "powerful",
+    "英語意味": "having great power or force or potency or effect",
+    "日本語意味": "強いです"
+  },
+  {
+    "英単語": "precise",
+    "英語意味": "sharply exact or accurate or delimited",
+    "日本語意味": "精密"
+  },
+  {
+    "英単語": "predict",
+    "英語意味": "make a prediction about; tell in advance",
+    "日本語意味": "予測します"
+  },
+  {
+    "英単語": "prediction",
+    "英語意味": "the act of predicting (as by reasoning about the future)",
+    "日本語意味": "予測"
+  },
+  {
+    "英単語": "prefer",
+    "英語意味": "like better; value more highly",
+    "日本語意味": "好む"
+  },
+  {
+    "英単語": "prepare",
+    "英語意味": "make ready or suitable or equip in advance for a particular purpose or for some use, event, etc",
+    "日本語意味": "作ります"
+  },
+  {
+    "英単語": "pressure",
+    "英語意味": "the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)",
+    "日本語意味": "圧力"
+  },
+  {
+    "英単語": "pretend",
+    "英語意味": "the enactment of a pretense",
+    "日本語意味": "偽ります"
+  },
+  {
+    "英単語": "pretty",
+    "英語意味": "pleasing by delicacy or grace; not imposing",
+    "日本語意味": "可愛い"
+  },
+  {
+    "英単語": "prevent",
+    "英語意味": "keep from happening or arising; make impossible",
+    "日本語意味": "防ぐ"
+  },
+  {
+    "英単語": "pride",
+    "英語意味": "a feeling of self-respect and personal worth",
+    "日本語意味": "誇り"
+  },
+  {
+    "英単語": "principal",
+    "英語意味": "the original amount of a debt on which interest is calculated",
+    "日本語意味": "主要な"
+  },
+  {
+    "英単語": "print",
+    "英語意味": "the text appearing in a book, newspaper, or other printed publication",
+    "日本語意味": "プリント"
+  },
+  {
+    "英単語": "printer",
+    "英語意味": "someone whose occupation is printing",
+    "日本語意味": "プリンタ"
+  },
+  {
+    "英単語": "private",
+    "英語意味": "an enlisted man of the lowest rank in the Army or Marines",
+    "日本語意味": "民間"
+  },
+  {
+    "英単語": "pro",
+    "英語意味": "an athlete who plays for pay",
+    "日本語意味": "プロ"
+  },
+  {
+    "英単語": "probably",
+    "英語意味": "with considerable certainty; without much doubt",
+    "日本語意味": "多分"
+  },
+  {
+    "英単語": "produce",
+    "英語意味": "fresh fruits and vegetable grown for the market",
+    "日本語意味": "作物"
+  },
+  {
+    "英単語": "product",
+    "英語意味": "commodities offered for sale",
+    "日本語意味": "製品"
+  },
+  {
+    "英単語": "production",
+    "英語意味": "the act or process of producing something",
+    "日本語意味": "製造"
+  },
+  {
+    "英単語": "professional",
+    "英語意味": "a person engaged in one of the learned professions",
+    "日本語意味": "プロフェッショナル"
+  },
+  {
+    "英単語": "progressive",
+    "英語意味": "a tense of verbs used in describing action that is on-going",
+    "日本語意味": "プログレッシブ"
+  },
+  {
+    "英単語": "promise",
+    "英語意味": "a verbal commitment by one person to another agreeing to do (or not to do) something in the future",
+    "日本語意味": "約束する"
+  },
+  {
+    "英単語": "pronounce",
+    "英語意味": "speak, pronounce, or utter in a certain way",
+    "日本語意味": "発音する"
+  },
+  {
+    "英単語": "pronunciation",
+    "英語意味": "the manner in which someone utters a word",
+    "日本語意味": "発音"
+  },
+  {
+    "英単語": "proper",
+    "英語意味": "marked by suitability or rightness or appropriateness",
+    "日本語意味": "適切な"
+  },
+  {
+    "英単語": "provide",
+    "英語意味": "give something useful or necessary to",
+    "日本語意味": "供給する"
+  },
+  {
+    "英単語": "psychologist",
+    "英語意味": "a scientist trained in psychology",
+    "日本語意味": "心理学者"
+  },
+  {
+    "英単語": "public",
+    "英語意味": "people in general considered as a whole",
+    "日本語意味": "公衆"
+  },
+  {
+    "英単語": "publish",
+    "英語意味": "put into print",
+    "日本語意味": "出版します"
+  },
+  {
+    "英単語": "pull",
+    "英語意味": "the act of pulling; applying force to move something toward or with you",
+    "日本語意味": "引く"
+  },
+  {
+    "英単語": "punctuation",
+    "英語意味": "something that makes repeated and regular interruptions or divisions",
+    "日本語意味": "句読"
+  },
+  {
+    "英単語": "purple",
+    "英語意味": "a purple color or pigment",
+    "日本語意味": "紫の"
+  },
+  {
+    "英単語": "purpose",
+    "英語意味": "an anticipated outcome that is intended or that guides your planned actions",
+    "日本語意味": "目的"
+  },
+  {
+    "英単語": "pursue",
+    "英語意味": "carry out or participate in an activity; be involved in",
+    "日本語意味": "求めます"
+  },
+  {
+    "英単語": "quality",
+    "英語意味": "an essential and distinguishing attribute of something or someone; --Shakespeare",
+    "日本語意味": "品質"
+  },
+  {
+    "英単語": "queen",
+    "英語意味": "the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs",
+    "日本語意味": "女王"
+  },
+  {
+    "英単語": "quick",
+    "英語意味": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
+    "日本語意味": "速いです"
+  },
+  {
+    "英単語": "quietly",
+    "英語意味": "with low volume",
+    "日本語意味": "静かに"
+  },
+  {
+    "英単語": "quit",
+    "英語意味": "put an end to a state or an activity",
+    "日本語意味": "終了する"
+  },
+  {
+    "英単語": "quite",
+    "英語意味": "to a degree (not used with a negative)",
+    "日本語意味": "かなり"
+  },
+  {
+    "英単語": "quiz",
+    "英語意味": "an examination consisting of a few short questions",
+    "日本語意味": "クイズ"
+  },
+  {
+    "英単語": "racket",
+    "英語意味": "a loud and disturbing noise",
+    "日本語意味": "ラケット"
+  },
+  {
+    "英単語": "raincoat",
+    "英語意味": "a water-resistant coat",
+    "日本語意味": "レインコート"
+  },
+  {
+    "英単語": "raise",
+    "英語意味": "the amount a salary is increased",
+    "日本語意味": "レイズ"
+  },
+  {
+    "英単語": "range",
+    "英語意味": "an area in which something acts or operates or has power or control:",
+    "日本語意味": "範囲"
+  },
+  {
+    "英単語": "rap",
+    "英語意味": "a reproach for some lapse or misdeed",
+    "日本語意味": "ラップ"
+  },
+  {
+    "英単語": "rate",
+    "英語意味": "a magnitude or frequency relative to a time unit",
+    "日本語意味": "割合"
+  },
+  {
+    "英単語": "rather",
+    "英語意味": "on the contrary",
+    "日本語意味": "かなり"
+  },
+  {
+    "英単語": "rating",
+    "英語意味": "an appraisal of the value of something",
+    "日本語意味": "格付け"
+  },
+  {
+    "英単語": "raw",
+    "英語意味": "informal terms for nakedness",
+    "日本語意味": "生"
+  },
+  {
+    "英単語": "ray",
+    "英語意味": "a column of light (as from a beacon)",
+    "日本語意味": "レイ"
+  },
+  {
+    "英単語": "reach",
+    "英語意味": "the limits within which something can be effective",
+    "日本語意味": "リーチ"
+  },
+  {
+    "英単語": "realize",
+    "英語意味": "be fully aware or cognizant of",
+    "日本語意味": "気付く"
+  },
+  {
+    "英単語": "receipt",
+    "英語意味": "the act of receiving",
+    "日本語意味": "領収書"
+  },
+  {
+    "英単語": "receive",
+    "英語意味": "get something; come into possession of",
+    "日本語意味": "受け取ります"
+  },
+  {
+    "英単語": "recent",
+    "英語意味": "approximately the last 10,000 years",
+    "日本語意味": "最近"
+  },
+  {
+    "英単語": "recently",
+    "英語意味": "in the recent past",
+    "日本語意味": "最近"
+  },
+  {
+    "英単語": "receptionist",
+    "英語意味": "a secretary whose main duty is to answer the telephone and receive visitors",
+    "日本語意味": "受付"
+  },
+  {
+    "英単語": "record",
+    "英語意味": "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
+    "日本語意味": "記録"
+  },
+  {
+    "英単語": "recycle",
+    "英語意味": "cause to repeat a cycle",
+    "日本語意味": "リサイクル"
+  },
+  {
+    "英単語": "red",
+    "英語意味": "red color or pigment; the chromatic color resembling the hue of blood",
+    "日本語意味": "赤"
+  },
+  {
+    "英単語": "refer",
+    "英語意味": "make reference to",
+    "日本語意味": "参照します"
+  },
+  {
+    "英単語": "reflect",
+    "英語意味": "manifest or bring back",
+    "日本語意味": "反射する"
+  },
+  {
+    "英単語": "refrigerator",
+    "英語意味": "white goods in which food can be stored at low temperatures",
+    "日本語意味": "冷蔵庫"
+  },
+  {
+    "英単語": "regret",
+    "英語意味": "sadness associated with some wrong done or some disappointment",
+    "日本語意味": "後悔"
+  },
+  {
+    "英単語": "regular",
+    "英語意味": "a regular patron",
+    "日本語意味": "定期的な"
+  },
+  {
+    "英単語": "regularly",
+    "英語意味": "in a regular manner",
+    "日本語意味": "定期的に"
+  },
+  {
+    "英単語": "relax",
+    "英語意味": "become less tense, rest, or take one's ease",
+    "日本語意味": "リラックス"
+  },
+  {
+    "英単語": "relaxed",
+    "英語意味": "become less tense, rest, or take one's ease",
+    "日本語意味": "リラックス"
+  },
+  {
+    "英単語": "release",
+    "英語意味": "merchandise issued for sale or public showing (especially a record or film)",
+    "日本語意味": "解除"
+  },
+  {
+    "英単語": "remain",
+    "英語意味": "stay the same; remain in a certain state",
+    "日本語意味": "残ります"
+  },
+  {
+    "英単語": "remind",
+    "英語意味": "put in the mind of someone",
+    "日本語意味": "思い出させます"
+  },
+  {
+    "英単語": "remote",
+    "英語意味": "a device that can be used to control a machine or apparatus from a distance",
+    "日本語意味": "遠隔"
+  },
+  {
+    "英単語": "rent",
+    "英語意味": "a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service",
+    "日本語意味": "家賃"
+  },
+  {
+    "英単語": "repair",
+    "英語意味": "the act of putting something in working order again",
+    "日本語意味": "修復"
+  },
+  {
+    "英単語": "replace",
+    "英語意味": "substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)",
+    "日本語意味": "置き換えます"
+  },
+  {
+    "英単語": "reply",
+    "英語意味": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+    "日本語意味": "応答"
+  },
+  {
+    "英単語": "report",
+    "英語意味": "a written document describing the findings of some individual or group",
+    "日本語意味": "報告する"
+  },
+  {
+    "英単語": "represent",
+    "英語意味": "take the place of or be parallel or equivalent to",
+    "日本語意味": "代表します"
+  },
+  {
+    "英単語": "request",
+    "英語意味": "a formal message requesting something that is submitted to an authority",
+    "日本語意味": "リクエスト"
+  },
+  {
+    "英単語": "research",
+    "英語意味": "systematic investigation to establish facts",
+    "日本語意味": "研究"
+  },
+  {
+    "英単語": "response",
+    "英語意味": "a result",
+    "日本語意味": "応答"
+  },
+  {
+    "英単語": "retire",
+    "英語意味": "go into retirement; stop performing one's work or withdraw from one's position",
+    "日本語意味": "引退します"
+  },
+  {
+    "英単語": "retired",
+    "英語意味": "go into retirement; stop performing one's work or withdraw from one's position",
+    "日本語意味": "引退しました"
+  },
+  {
+    "英単語": "return",
+    "英語意味": "document giving the tax collector information about the taxpayer's tax liability",
+    "日本語意味": "リターン"
+  },
+  {
+    "英単語": "reunion",
+    "英語意味": "a party of former associates who have come together again",
+    "日本語意味": "再会"
+  },
+  {
+    "英単語": "reveal",
+    "英語意味": "make visible",
+    "日本語意味": "明らかにする"
+  },
+  {
+    "英単語": "rhythm",
+    "英語意味": "the basic rhythmic unit in a piece of music",
+    "日本語意味": "リズム"
+  },
+  {
+    "英単語": "right",
+    "英語意味": "an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt",
+    "日本語意味": "正しい"
+  },
+  {
+    "英単語": "right-hand",
+    "英語意味": "located on or directed toward the right",
+    "日本語意味": "右手"
+  },
+  {
+    "英単語": "ring",
+    "英語意味": "a characteristic sound",
+    "日本語意味": "リング"
+  },
+  {
+    "英単語": "road",
+    "英語意味": "an open way (generally public) for travel or transportation",
+    "日本語意味": "道路"
+  },
+  {
+    "英単語": "roast",
+    "英語意味": "a piece of meat roasted or for roasting and of a size for slicing into more than one portion",
+    "日本語意味": "ロースト"
+  },
+  {
+    "英単語": "rob",
+    "英語意味": "take something away by force or without the consent of the owner",
+    "日本語意味": "奪います"
+  },
+  {
+    "英単語": "robbery",
+    "英語意味": "larceny by threat of violence",
+    "日本語意味": "強盗"
+  },
+  {
+    "英単語": "robin",
+    "英語意味": "small Old World songbird with a reddish breast",
+    "日本語意味": "ロビン"
+  },
+  {
+    "英単語": "rock",
+    "英語意味": "a lump or mass of hard consolidated mineral matter",
+    "日本語意味": "岩"
+  },
+  {
+    "英単語": "roll",
+    "英語意味": "rotary motion of an object around its own axis",
+    "日本語意味": "ロール"
+  },
+  {
+    "英単語": "romance",
+    "英語意味": "a relationship between two lovers",
+    "日本語意味": "ロマンス"
+  },
+  {
+    "英単語": "romantic",
+    "英語意味": "a soulful or amorous idealist",
+    "日本語意味": "ロマンチック"
+  },
+  {
+    "英単語": "roof",
+    "英語意味": "a protective covering that covers or forms the top of a building",
+    "日本語意味": "ルーフ"
+  },
+  {
+    "英単語": "root",
+    "英語意味": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground",
+    "日本語意味": "ルート"
+  },
+  {
+    "英単語": "rope",
+    "英語意味": "a strong line",
+    "日本語意味": "ロープ"
+  },
+  {
+    "英単語": "roughly",
+    "英語意味": "(of quantities) imprecise but fairly close to correct",
+    "日本語意味": "おおよそ"
+  },
+  {
+    "英単語": "round",
+    "英語意味": "a charge of ammunition for a single shot",
+    "日本語意味": "円形"
+  },
+  {
+    "英単語": "roundabout",
+    "英語意味": "a road junction at which traffic streams circularly around a central island",
+    "日本語意味": "迂遠"
+  },
+  {
+    "英単語": "royal",
+    "英語意味": "a sail set next above the topgallant on a royal mast",
+    "日本語意味": "王立"
+  },
+  {
+    "英単語": "rugby",
+    "英語意味": "a form of football played with an oval ball",
+    "日本語意味": "ラグビー"
+  },
+  {
+    "英単語": "ruin",
+    "英語意味": "an irrecoverable state of devastation and destruction",
+    "日本語意味": "破滅"
+  },
+  {
+    "英単語": "rumor",
+    "英語意味": "gossip (usually a mixture of truth and untruth) passed around by word of mouth",
+    "日本語意味": "噂"
+  },
+  {
+    "英単語": "runner",
+    "英語意味": "someone who imports or exports without paying duties",
+    "日本語意味": "ランナー"
+  },
+  {
+    "英単語": "running",
+    "英語意味": "(American football) a play in which a player attempts to carry the ball through or past the opposing team",
+    "日本語意味": "ランニング"
+  },
+  {
+    "英単語": "rush",
+    "英語意味": "the act of moving hurriedly and in a careless manner",
+    "日本語意味": "ラッシュ"
+  },
+  {
+    "英単語": "sadly",
+    "英語意味": "in an unfortunate way",
+    "日本語意味": "悲しげに"
+  },
+  {
+    "英単語": "safe",
+    "英語意味": "strongbox where valuables can be safely kept",
+    "日本語意味": "安全"
+  },
+  {
+    "英単語": "sailing",
+    "英語意味": "the work of a sailor",
+    "日本語意味": "帆走"
+  },
+  {
+    "英単語": "sake",
+    "英語意味": "a reason for wanting something done",
+    "日本語意味": "酒"
+  },
+  {
+    "英単語": "salt",
+    "英語意味": "a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)",
+    "日本語意味": "塩"
+  },
+  {
+    "英単語": "sample",
+    "英語意味": "a small part of something intended as representative of the whole",
+    "日本語意味": "サンプル"
+  },
+  {
+    "英単語": "sandy",
+    "英語意味": "of hair color; pale yellowish to yellowish brown",
+    "日本語意味": "砂の"
+  },
+  {
+    "英単語": "satisfy",
+    "英語意味": "meet the requirements or expectations of",
+    "日本語意味": "満足させる"
+  },
+  {
+    "英単語": "sauce",
+    "英語意味": "flavorful relish or dressing or topping served as an accompaniment to food",
+    "日本語意味": "ソース"
+  },
+  {
+    "英単語": "sausage",
+    "英語意味": "highly seasoned minced meat stuffed in casings",
+    "日本語意味": "ソーセージ"
+  },
+  {
+    "英単語": "scale",
+    "英語意味": "an ordered reference standard",
+    "日本語意味": "規模"
+  },
+  {
+    "英単語": "scarf",
+    "英語意味": "a garment worn around the head or neck or shoulders for warmth or decoration",
+    "日本語意味": "スカーフ"
+  },
+  {
+    "英単語": "scene",
+    "英語意味": "the place where some action occurs",
+    "日本語意味": "シーン"
+  },
+  {
+    "英単語": "scenery",
+    "英語意味": "the painted structures of a stage set that are intended to suggest a particular locale",
+    "日本語意味": "風景"
+  },
+  {
+    "英単語": "schedule",
+    "英語意味": "a temporally organized plan for matters to be attended to",
+    "日本語意味": "スケジュール"
+  },
+  {
+    "英単語": "schoolchild",
+    "英語意味": "a young person attending school (up through senior high school)",
+    "日本語意味": "小学生"
+  },
+  {
+    "英単語": "schoolwork",
+    "英語意味": "a school task performed by a student to satisfy the teacher",
+    "日本語意味": "学校の勉強"
+  },
+  {
+    "英単語": "scientific",
+    "英語意味": "of or relating to the practice of science",
+    "日本語意味": "科学的"
+  },
+  {
+    "英単語": "scissors",
+    "英語意味": "an edge tool having two crossed pivoting blades",
+    "日本語意味": "はさみ"
+  },
+  {
+    "英単語": "scream",
+    "英語意味": "sharp piercing cry",
+    "日本語意味": "悲鳴"
+  },
+  {
+    "英単語": "screen",
+    "英語意味": "a white or silvered surface where pictures can be projected for viewing",
+    "日本語意味": "画面"
+  },
+  {
+    "英単語": "screw",
+    "英語意味": "someone who guards prisoners",
+    "日本語意味": "スクリュー"
+  },
+  {
+    "英単語": "script",
+    "英語意味": "a written version of a play or other dramatic composition; used in preparing for a performance",
+    "日本語意味": "脚本"
+  },
+  {
+    "英単語": "seafood",
+    "英語意味": "edible fish (broadly including freshwater fish) or shellfish or roe etc",
+    "日本語意味": "シーフード"
+  },
+  {
+    "英単語": "search",
+    "英語意味": "the activity of looking thoroughly in order to find something or someone",
+    "日本語意味": "探す"
+  },
+  {
+    "英単語": "seaside",
+    "英語意味": "the shore of a sea or ocean regarded as a resort",
+    "日本語意味": "シーサイド"
+  },
+  {
+    "英単語": "second",
+    "英語意味": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites",
+    "日本語意味": "第2"
+  },
+  {
+    "英単語": "secret",
+    "英語意味": "something that should remain hidden from others (especially information that is not to be passed on)",
+    "日本語意味": "秘密"
+  },
+  {
+    "英単語": "secretary",
+    "英語意味": "a person who is head of an administrative department of government",
+    "日本語意味": "秘書"
+  },
+  {
+    "英単語": "seed",
+    "英語意味": "a small hard fruit",
+    "日本語意味": "シード"
+  },
+  {
+    "英単語": "seek",
+    "英語意味": "the movement of a read/write head to a specific data track on a disk",
+    "日本語意味": "求める"
+  },
+  {
+    "英単語": "seem",
+    "英語意味": "give a certain impression or have a certain outward aspect",
+    "日本語意味": "思われる"
+  },
+  {
+    "英単語": "semester",
+    "英語意味": "one of two divisions of an academic year",
+    "日本語意味": "学期"
+  },
+  {
+    "英単語": "send",
+    "英語意味": "cause to go somewhere",
+    "日本語意味": "送信"
+  },
+  {
+    "英単語": "senior",
+    "英語意味": "an undergraduate student during the year preceding graduation",
+    "日本語意味": "上級"
+  },
+  {
+    "英単語": "sense",
+    "英語意味": "a general conscious awareness",
+    "日本語意味": "感覚"
+  },
+  {
+    "英単語": "separate",
+    "英語意味": "a separately printed article that originally appeared in a larger publication",
+    "日本語意味": "分ける"
+  },
+  {
+    "英単語": "seriously",
+    "英語意味": "in a serious manner",
+    "日本語意味": "ひどく"
+  },
+  {
+    "英単語": "serve",
+    "英語意味": "(sports) a stroke that puts the ball in play",
+    "日本語意味": "サーブ"
+  },
+  {
+    "英単語": "set",
+    "英語意味": "a group of things of the same kind that belong together and are so used",
+    "日本語意味": "セットする"
+  },
+  {
+    "英単語": "several",
+    "英語意味": "(used with count nouns) of an indefinite number more than 2 or 3 but not many",
+    "日本語意味": "いくつかの"
+  },
+  {
+    "英単語": "sew",
+    "英語意味": "fasten by sewing; do needlework",
+    "日本語意味": "縫う"
+  },
+  {
+    "英単語": "shade",
+    "英語意味": "relative darkness caused by light rays being intercepted by an opaque body",
+    "日本語意味": "シェード"
+  },
+  {
+    "英単語": "shadow",
+    "英語意味": "shade within clear boundaries",
+    "日本語意味": "影"
+  },
+  {
+    "英単語": "shampoo",
+    "英語意味": "cleansing agent consisting of soaps or detergents used for washing the hair",
+    "日本語意味": "シャンプー"
+  },
+  {
+    "英単語": "shape",
+    "英語意味": "any spatial attributes (especially as defined by outline)",
+    "日本語意味": "形状"
+  },
+  {
+    "英単語": "share",
+    "英語意味": "assets belonging to or due to or contributed by an individual person or group",
+    "日本語意味": "シェア"
+  },
+  {
+    "英単語": "shell",
+    "英語意味": "ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun",
+    "日本語意味": "シェル"
+  },
+  {
+    "英単語": "shine",
+    "英語意味": "the quality of being bright and sending out rays of light",
+    "日本語意味": "輝く"
+  },
+  {
+    "英単語": "shock",
+    "英語意味": "the feeling of distress and disbelief that you have when something bad happens accidentally",
+    "日本語意味": "ショック"
+  },
+  {
+    "英単語": "shoot",
+    "英語意味": "a new branch",
+    "日本語意味": "シュート"
+  },
+  {
+    "英単語": "shore",
+    "英語意味": "the land along the edge of a body of water",
+    "日本語意味": "岸"
+  },
+  {
+    "英単語": "short",
+    "英語意味": "the location on a baseball field where the shortstop is stationed",
+    "日本語意味": "ショート"
+  },
+  {
+    "英単語": "shot",
+    "英語意味": "the act of firing a projectile",
+    "日本語意味": "ショット"
+  },
+  {
+    "英単語": "shout",
+    "英語意味": "a loud utterance; often in protest or opposition",
+    "日本語意味": "叫び"
+  },
+  {
+    "英単語": "show",
+    "英語意味": "the act of publicly exhibiting or entertaining",
+    "日本語意味": "公演"
+  },
+  {
+    "英単語": "shut",
+    "英語意味": "move so that an opening or passage is obstructed; make shut",
+    "日本語意味": "シャット"
+  },
+  {
+    "英単語": "sightseeing",
+    "英語意味": "going about to look at places of interest",
+    "日本語意味": "観光"
+  },
+  {
+    "英単語": "significant",
+    "英語意味": "important in effect or meaning",
+    "日本語意味": "重要"
+  },
+  {
+    "英単語": "silence",
+    "英語意味": "the state of being silent (as when no one is speaking)",
+    "日本語意味": "沈黙"
+  },
+  {
+    "英単語": "silently",
+    "英語意味": "without speaking",
+    "日本語意味": "静かに"
+  },
+  {
+    "英単語": "silly",
+    "英語意味": "a word used for misbehaving children",
+    "日本語意味": "ばかげました"
+  },
+  {
+    "英単語": "silver",
+    "英語意味": "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography",
+    "日本語意味": "銀"
+  },
+  {
+    "英単語": "similar",
+    "英語意味": "marked by correspondence or resemblance",
+    "日本語意味": "同様の"
+  },
+  {
+    "英単語": "simple",
+    "英語意味": "any herbaceous plant having medicinal properties",
+    "日本語意味": "シンプル"
+  },
+  {
+    "英単語": "simply",
+    "英語意味": "and nothing more",
+    "日本語意味": "単に"
+  },
+  {
+    "英単語": "singing",
+    "英語意味": "the act of singing vocal music",
+    "日本語意味": "歌うこと"
+  },
+  {
+    "英単語": "single",
+    "英語意味": "a base hit on which the batter stops safely at first base",
+    "日本語意味": "シングル"
+  },
+  {
+    "英単語": "singular",
+    "英語意味": "the form of a word that is used to denote a singleton",
+    "日本語意味": "特異な"
+  },
+  {
+    "英単語": "sink",
+    "英語意味": "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+    "日本語意味": "シンク"
+  },
+  {
+    "英単語": "situation",
+    "英語意味": "the general state of things; the combination of circumstances at a given time; ; ; - Franklin D.Roosevelt",
+    "日本語意味": "状況"
+  },
+  {
+    "英単語": "skate",
+    "英語意味": "sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs",
+    "日本語意味": "スケート"
+  },
+  {
+    "英単語": "skateboarding",
+    "英語意味": "the sport of skating on a skateboard",
+    "日本語意味": "スケートボード"
+  },
+  {
+    "英単語": "skating",
+    "英語意味": "the sport of gliding on skates",
+    "日本語意味": "スケート"
+  },
+  {
+    "英単語": "ski",
+    "英語意味": "narrow wood or metal or plastic runners used in pairs for gliding over snow",
+    "日本語意味": "スキー"
+  },
+  {
+    "英単語": "skiing",
+    "英語意味": "a sport in which participants must travel on skis",
+    "日本語意味": "スキー"
+  },
+  {
+    "英単語": "slave",
+    "英語意味": "a person who is owned by someone",
+    "日本語意味": "奴隷"
+  },
+  {
+    "英単語": "sleepless",
+    "英語意味": "experiencing or accompanied by sleeplessness; ; ; ; - Shakespeare",
+    "日本語意味": "眠れません"
+  },
+  {
+    "英単語": "sleepy",
+    "英語意味": "ready to fall asleep",
+    "日本語意味": "眠いです"
+  },
+  {
+    "英単語": "slice",
+    "英語意味": "a share of something",
+    "日本語意味": "スライス"
+  },
+  {
+    "英単語": "slide",
+    "英語意味": "a small flat rectangular piece of glass on which specimens can be mounted for microscopic study",
+    "日本語意味": "滑り台"
+  },
+  {
+    "英単語": "slim",
+    "英語意味": "take off weight",
+    "日本語意味": "スリム"
+  },
+  {
+    "英単語": "slowly",
+    "英語意味": "without speed (`slow' is sometimes used informally for `slowly')",
+    "日本語意味": "ゆっくり"
+  },
+  {
+    "英単語": "smoke",
+    "英語意味": "a cloud of fine particles suspended in a gas",
+    "日本語意味": "煙"
+  },
+  {
+    "英単語": "smooth",
+    "英語意味": "the act of smoothing",
+    "日本語意味": "滑らか"
+  },
+  {
+    "英単語": "smoothly",
+    "英語意味": "with no problems or difficulties",
+    "日本語意味": "なめらかに"
+  },
+  {
+    "英単語": "snack",
+    "英語意味": "a light informal meal",
+    "日本語意味": "スナック"
+  },
+  {
+    "英単語": "snow",
+    "英語意味": "precipitation falling from clouds in the form of ice crystals",
+    "日本語意味": "雪"
+  },
+  {
+    "英単語": "snowboarding",
+    "英語意味": "the act of sliding down a snow-covered slope while standing on a snowboard",
+    "日本語意味": "スノーボード"
+  },
+  {
+    "英単語": "so",
+    "英語意味": "the syllable naming the fifth (dominant) note of any musical scale in solmization",
+    "日本語意味": "そう"
+  },
+  {
+    "英単語": "soap",
+    "英語意味": "a cleansing agent made from the salts of vegetable or animal fats",
+    "日本語意味": "石鹸"
+  },
+  {
+    "英単語": "society",
+    "英語意味": "an extended social group having a distinctive cultural and economic organization",
+    "日本語意味": "社会"
+  },
+  {
+    "英単語": "sock",
+    "英語意味": "hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee",
+    "日本語意味": "靴下"
+  },
+  {
+    "英単語": "soda",
+    "英語意味": "a sodium salt of carbonic acid; used in making soap powders and glass and paper",
+    "日本語意味": "ソーダ"
+  },
+  {
+    "英単語": "soft",
+    "英語意味": "yielding readily to pressure or weight",
+    "日本語意味": "柔らかい"
+  },
+  {
+    "英単語": "softly",
+    "英語意味": "with low volume",
+    "日本語意味": "そっと"
+  },
+  {
+    "英単語": "software",
+    "英語意味": "(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory",
+    "日本語意味": "ソフトウェア"
+  },
+  {
+    "英単語": "soldier",
+    "英語意味": "an enlisted man or woman who serves in an army",
+    "日本語意味": "兵士"
+  },
+  {
+    "英単語": "solution",
+    "英語意味": "a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution",
+    "日本語意味": "解決"
+  },
+  {
+    "英単語": "somebody",
+    "英語意味": "a human being",
+    "日本語意味": "誰か"
+  },
+  {
+    "英単語": "someday",
+    "英語意味": "some unspecified time in the future",
+    "日本語意味": "何時か"
+  },
+  {
+    "英単語": "somewhere",
+    "英語意味": "an indefinite or unknown location",
+    "日本語意味": "何処か"
+  },
+  {
+    "英単語": "sound",
+    "英語意味": "the particular auditory effect produced by a given cause",
+    "日本語意味": "音"
+  },
+  {
+    "英単語": "source",
+    "英語意味": "the place where something begins, where it springs into being",
+    "日本語意味": "ソース"
+  },
+  {
+    "英単語": "south",
+    "英語意味": "the region of the United States lying to the south of the Mason-Dixon line",
+    "日本語意味": "南"
+  },
+  {
+    "英単語": "space",
+    "英語意味": "the unlimited expanse in which everything is located",
+    "日本語意味": "スペース"
+  },
+  {
+    "英単語": "spaceship",
+    "英語意味": "a spacecraft designed to carry a crew into interstellar space (especially in science fiction)",
+    "日本語意味": "宇宙船"
+  },
+  {
+    "英単語": "spaghetti",
+    "英語意味": "spaghetti served with a tomato sauce",
+    "日本語意味": "スパゲッティ"
+  },
+  {
+    "英単語": "speaker",
+    "英語意味": "someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous)",
+    "日本語意味": "スピーカー"
+  },
+  {
+    "英単語": "specific",
+    "英語意味": "a fact about some part (as opposed to general)",
+    "日本語意味": "明確な"
+  },
+  {
+    "英単語": "speed",
+    "英語意味": "distance travelled per unit time",
+    "日本語意味": "速度"
+  },
+  {
+    "英単語": "spell",
+    "英語意味": "a psychological state induced by (or as if induced by) a magical incantation",
+    "日本語意味": "スペル"
+  },
+  {
+    "英単語": "spill",
+    "英語意味": "liquid that is spilled",
+    "日本語意味": "溢流"
+  },
+  {
+    "英単語": "splash",
+    "英語意味": "the sound like water splashing",
+    "日本語意味": "スプラッシュ"
+  },
+  {
+    "英単語": "split",
+    "英語意味": "extending the legs at right angles to the trunk (one in front and the other in back)",
+    "日本語意味": "スプリット"
+  },
+  {
+    "英単語": "spoon",
+    "英語意味": "a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food",
+    "日本語意味": "スプーン"
+  },
+  {
+    "英単語": "spread",
+    "英語意味": "process or result of distributing or extending over a wide expanse of space",
+    "日本語意味": "拡大"
+  },
+  {
+    "英単語": "square",
+    "英語意味": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
+    "日本語意味": "平方"
+  },
+  {
+    "英単語": "stadium",
+    "英語意味": "a large structure for open-air sports or entertainments",
+    "日本語意味": "スタジアム"
+  },
+  {
+    "英単語": "staff",
+    "英語意味": "personnel who assist their superior in carrying out an assigned task",
+    "日本語意味": "スタッフ"
+  },
+  {
+    "英単語": "stair",
+    "英語意味": "support consisting of a place to rest the foot while ascending or descending a stairway",
+    "日本語意味": "階段"
+  },
+  {
+    "英単語": "stamp",
+    "英語意味": "the distinctive form in which a thing is made",
+    "日本語意味": "切手"
+  },
+  {
+    "英単語": "stand",
+    "英語意味": "a support or foundation",
+    "日本語意味": "スタンド"
+  },
+  {
+    "英単語": "state",
+    "英語意味": "the territory occupied by one of the constituent administrative districts of a nation",
+    "日本語意味": "状態"
+  },
+  {
+    "英単語": "statement",
+    "英語意味": "a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc",
+    "日本語意味": "ステートメント"
+  },
+  {
+    "英単語": "statue",
+    "英語意味": "a sculpture representing a human or animal",
+    "日本語意味": "立像"
+  },
+  {
+    "英単語": "steak",
+    "英語意味": "a slice of meat cut from the fleshy part of an animal or large fish",
+    "日本語意味": "ステーキ"
+  },
+  {
+    "英単語": "steal",
+    "英語意味": "an advantageous purchase",
+    "日本語意味": "スチール"
+  },
+  {
+    "英単語": "step",
+    "英語意味": "any maneuver made as part of progress toward a goal",
+    "日本語意味": "ステップ"
+  },
+  {
+    "英単語": "still",
+    "英語意味": "a static photograph (especially one taken from a movie and used for advertising purposes)",
+    "日本語意味": "やはり"
+  },
+  {
+    "英単語": "stomach",
+    "英語意味": "an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion",
+    "日本語意味": "胃"
+  },
+  {
+    "英単語": "stomachache",
+    "英語意味": "an ache localized in the stomach or abdominal region",
+    "日本語意味": "腹痛"
+  },
+  {
+    "英単語": "storm",
+    "英語意味": "a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning",
+    "日本語意味": "嵐"
+  },
+  {
+    "英単語": "stove",
+    "英語意味": "a kitchen appliance used for cooking food",
+    "日本語意味": "ストーブ"
+  },
+  {
+    "英単語": "straight",
+    "英語意味": "a heterosexual person; someone having a sexual orientation to persons of the opposite sex",
+    "日本語意味": "まっすぐ"
+  },
+  {
+    "英単語": "stranger",
+    "英語意味": "anyone who does not belong in the environment in which they are found",
+    "日本語意味": "ストレンジャー"
+  },
+  {
+    "英単語": "strategy",
+    "英語意味": "an elaborate and systematic plan of action",
+    "日本語意味": "戦略"
+  },
+  {
+    "英単語": "strength",
+    "英語意味": "the property of being physically or mentally strong",
+    "日本語意味": "力"
+  },
+  {
+    "英単語": "strike",
+    "英語意味": "a group's refusal to work in protest against low pay or bad work conditions",
+    "日本語意味": "攻撃"
+  },
+  {
+    "英単語": "string",
+    "英語意味": "a lightweight cord",
+    "日本語意味": "ストリング"
+  },
+  {
+    "英単語": "strongly",
+    "英語意味": "with strength or in a strong manner",
+    "日本語意味": "強く"
+  },
+  {
+    "英単語": "structure",
+    "英語意味": "a thing constructed; a complex entity constructed of many parts",
+    "日本語意味": "構造"
+  },
+  {
+    "英単語": "study",
+    "英語意味": "a detailed critical inspection",
+    "日本語意味": "調査"
+  },
+  {
+    "英単語": "stuff",
+    "英語意味": "the tangible substance that goes into the makeup of a physical object",
+    "日本語意味": "スタッフ"
+  },
+  {
+    "英単語": "style",
+    "英語意味": "how something is done or how it happens",
+    "日本語意味": "スタイル"
+  },
+  {
+    "英単語": "succeed",
+    "英語意味": "attain success or reach a desired goal",
+    "日本語意味": "成功します"
+  },
+  {
+    "英単語": "success",
+    "英語意味": "an event that accomplishes its intended purpose",
+    "日本語意味": "成功"
+  },
+  {
+    "英単語": "successfully",
+    "英語意味": "with success; in a successful manner",
+    "日本語意味": "うまく"
+  },
+  {
+    "英単語": "such",
+    "英語意味": "of so extreme a degree or extent",
+    "日本語意味": "そのような"
+  },
+  {
+    "英単語": "sudden",
+    "英語意味": "happening without warning or in a short space of time",
+    "日本語意味": "突然"
+  },
+  {
+    "英単語": "suggest",
+    "英語意味": "make a proposal, declare a plan for something",
+    "日本語意味": "提案します"
+  },
+  {
+    "英単語": "suit",
+    "英語意味": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "日本語意味": "スーツ"
+  },
+  {
+    "英単語": "suitable",
+    "英語意味": "meant or adapted for an occasion or use",
+    "日本語意味": "適当"
+  },
+  {
+    "英単語": "suitcase",
+    "英語意味": "a portable rectangular container for carrying clothes",
+    "日本語意味": "スーツケース"
+  },
+  {
+    "英単語": "summary",
+    "英語意味": "a brief statement that presents the main points in a concise form",
+    "日本語意味": "概要"
+  },
+  {
+    "英単語": "sunflower",
+    "英語意味": "any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays",
+    "日本語意味": "向日葵"
+  },
+  {
+    "英単語": "sunglasses",
+    "英語意味": "spectacles that are darkened or polarized to protect the eyes from the glare of the sun",
+    "日本語意味": "サングラス"
+  },
+  {
+    "英単語": "sunlight",
+    "英語意味": "the rays of the sun",
+    "日本語意味": "日光"
+  },
+  {
+    "英単語": "superlative",
+    "英語意味": "an exaggerated expression (usually of praise)",
+    "日本語意味": "最上級"
+  },
+  {
+    "英単語": "superstar",
+    "英語意味": "someone who is dazzlingly skilled in any field",
+    "日本語意味": "スーパースター"
+  },
+  {
+    "英単語": "supper",
+    "英語意味": "a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime",
+    "日本語意味": "晩餐"
+  },
+  {
+    "英単語": "support",
+    "英語意味": "the activity of providing for or maintaining by supplying with money or necessities",
+    "日本語意味": "サポート"
+  },
+  {
+    "英単語": "sure",
+    "英語意味": "having or feeling no doubt or uncertainty; confident and assured",
+    "日本語意味": "承知しました"
+  },
+  {
+    "英単語": "surf",
+    "英語意味": "waves breaking on the shore",
+    "日本語意味": "サーフ"
+  },
+  {
+    "英単語": "surfing",
+    "英語意味": "the sport of riding a surfboard toward the shore on the crest of a wave",
+    "日本語意味": "サーフィン"
+  },
+  {
+    "英単語": "surname",
+    "英語意味": "the name used to identify the members of a family (as distinguished from each member's given name)",
+    "日本語意味": "姓"
+  },
+  {
+    "英単語": "surprised",
+    "英語意味": "cause to be surprised",
+    "日本語意味": "驚きました"
+  },
+  {
+    "英単語": "surprising",
+    "英語意味": "cause to be surprised",
+    "日本語意味": "驚くべき"
+  },
+  {
+    "英単語": "survive",
+    "英語意味": "continue to live through hardship or adversity",
+    "日本語意味": "生き残ります"
+  },
+  {
+    "英単語": "swallow",
+    "英語意味": "a small amount of liquid food",
+    "日本語意味": "飲み込む"
+  },
+  {
+    "英単語": "sweat",
+    "英語意味": "salty fluid secreted by sweat glands",
+    "日本語意味": "汗"
+  },
+  {
+    "英単語": "sweater",
+    "英語意味": "a crocheted or knitted garment covering the upper part of the body",
+    "日本語意味": "セーター"
+  },
+  {
+    "英単語": "sweet",
+    "英語意味": "English phonetician; one of the founders of modern phonetics (1845-1912)",
+    "日本語意味": "甘い"
+  },
+  {
+    "英単語": "sweetheart",
+    "英語意味": "a person loved by another person",
+    "日本語意味": "恋人"
+  },
+  {
+    "英単語": "swimsuit",
+    "英語意味": "tight fitting garment worn for swimming",
+    "日本語意味": "水着"
+  },
+  {
+    "英単語": "symbol",
+    "英語意味": "an arbitrary sign (written or printed) that has acquired a conventional significance",
+    "日本語意味": "シンボル"
+  },
+  {
+    "英単語": "symphony",
+    "英語意味": "a long and complex sonata for symphony orchestra",
+    "日本語意味": "交響曲"
+  },
+  {
+    "英単語": "system",
+    "英語意味": "instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity",
+    "日本語意味": "システム"
+  },
+  {
+    "英単語": "tablespoon",
+    "英語意味": "as much as a tablespoon will hold",
+    "日本語意味": "テーブルスプーン"
+  },
+  {
+    "英単語": "talent",
+    "英語意味": "natural abilities or qualities",
+    "日本語意味": "才能"
+  },
+  {
+    "英単語": "tap",
+    "英語意味": "the sound made by a gentle blow",
+    "日本語意味": "タップ"
+  },
+  {
+    "英単語": "tape",
+    "英語意味": "a long thin piece of cloth or paper as used for binding or fastening",
+    "日本語意味": "テープ"
+  },
+  {
+    "英単語": "target",
+    "英語意味": "a reference point to shoot at",
+    "日本語意味": "目標"
+  },
+  {
+    "英単語": "task",
+    "英語意味": "any piece of work that is undertaken or attempted",
+    "日本語意味": "仕事"
+  },
+  {
+    "英単語": "tear",
+    "英語意味": "a drop of the clear salty saline solution secreted by the lacrimal glands",
+    "日本語意味": "涙"
+  },
+  {
+    "英単語": "teenage",
+    "英語意味": "being of the age 13 through 19",
+    "日本語意味": "ティーンエイジ"
+  },
+  {
+    "英単語": "teenager",
+    "英語意味": "a juvenile between the onset of puberty and maturity",
+    "日本語意味": "ティーンエイジャー"
+  },
+  {
+    "英単語": "telephone",
+    "英語意味": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+    "日本語意味": "電話"
+  },
+  {
+    "英単語": "temperature",
+    "英語意味": "the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)",
+    "日本語意味": "温度"
+  },
+  {
+    "英単語": "terrify",
+    "英語意味": "fill with terror; frighten greatly",
+    "日本語意味": "おびえさせます"
+  },
+  {
+    "英単語": "terrorist",
+    "英語意味": "a radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities",
+    "日本語意味": "テロリスト"
+  },
+  {
+    "英単語": "text",
+    "英語意味": "the words of something written",
+    "日本語意味": "テキスト"
+  },
+  {
+    "英単語": "textbook",
+    "英語意味": "a book prepared for use in schools or colleges",
+    "日本語意味": "教科書"
+  },
+  {
+    "英単語": "therefore",
+    "英語意味": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+    "日本語意味": "故に"
+  },
+  {
+    "英単語": "thief",
+    "英語意味": "a criminal who takes property belonging to someone else with the intention of keeping it or selling it",
+    "日本語意味": "泥棒"
+  },
+  {
+    "英単語": "third",
+    "英語意味": "one of three equal parts of a divisible whole",
+    "日本語意味": "三番"
+  },
+  {
+    "英単語": "thirsty",
+    "英語意味": "needing moisture",
+    "日本語意味": "喉が渇いた"
+  },
+  {
+    "英単語": "though",
+    "英語意味": "(postpositive) however",
+    "日本語意味": "にもかかわらず"
+  },
+  {
+    "英単語": "thought",
+    "英語意味": "the content of cognition; the main thing you are thinking about",
+    "日本語意味": "思想"
+  },
+  {
+    "英単語": "thousand",
+    "英語意味": "the cardinal number that is the product of 10 and 100",
+    "日本語意味": "千"
+  },
+  {
+    "英単語": "throw",
+    "英語意味": "the act of throwing (propelling something with a rapid movement of the arm and wrist)",
+    "日本語意味": "スロー"
+  },
+  {
+    "英単語": "thunderstorm",
+    "英語意味": "a storm resulting from strong rising air currents; heavy rain or hail along with thunder and lightning",
+    "日本語意味": "雷雨"
+  },
+  {
+    "英単語": "tidy",
+    "英語意味": "receptacle that holds odds and ends (as sewing materials)",
+    "日本語意味": "整頓"
+  },
+  {
+    "英単語": "tie",
+    "英語意味": "neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front",
+    "日本語意味": "ネクタイ"
+  },
+  {
+    "英単語": "tights",
+    "英語意味": "skintight knit hose covering the body from the waist to the feet worn by acrobats and dancers and as stockings by women and girls",
+    "日本語意味": "タイツ"
+  },
+  {
+    "英単語": "till",
+    "英語意味": "unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together",
+    "日本語意味": "迄"
+  },
+  {
+    "英単語": "timetable",
+    "英語意味": "a schedule listing events and the times at which they will take place",
+    "日本語意味": "時刻表"
+  },
+  {
+    "英単語": "tip",
+    "英語意味": "the extreme end of something; especially something pointed",
+    "日本語意味": "ヒント"
+  },
+  {
+    "英単語": "title",
+    "英語意味": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
+    "日本語意味": "題名"
+  },
+  {
+    "英単語": "toast",
+    "英語意味": "slices of bread that have been toasted",
+    "日本語意味": "トースト"
+  },
+  {
+    "英単語": "toe",
+    "英語意味": "one of the digits of the foot",
+    "日本語意味": "足の指"
+  },
+  {
+    "英単語": "tone",
+    "英語意味": "the quality of a person's voice",
+    "日本語意味": "トーン"
+  },
+  {
+    "英単語": "tonight",
+    "英語意味": "the present or immediately coming night",
+    "日本語意味": "今晩"
+  },
+  {
+    "英単語": "toothache",
+    "英語意味": "an ache localized in or around a tooth",
+    "日本語意味": "歯痛"
+  },
+  {
+    "英単語": "toothbrush",
+    "英語意味": "small brush; has long handle; used to clean teeth",
+    "日本語意味": "歯ブラシ"
+  },
+  {
+    "英単語": "tour",
+    "英語意味": "a journey or route all the way around a particular place or area",
+    "日本語意味": "旅行"
+  },
+  {
+    "英単語": "tourist",
+    "英語意味": "someone who travels for pleasure",
+    "日本語意味": "ツーリスト"
+  },
+  {
+    "英単語": "track",
+    "英語意味": "a line or route along which something travels or moves",
+    "日本語意味": "追跡"
+  },
+  {
+    "英単語": "trade",
+    "英語意味": "the commercial exchange (buying and selling on domestic or international markets) of goods and services",
+    "日本語意味": "トレード"
+  },
+  {
+    "英単語": "tradition",
+    "英語意味": "an inherited pattern of thought or action",
+    "日本語意味": "伝統"
+  },
+  {
+    "英単語": "traditional",
+    "英語意味": "consisting of or derived from tradition",
+    "日本語意味": "伝統的な"
+  },
+  {
+    "英単語": "traffic",
+    "英語意味": "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time",
+    "日本語意味": "トラフィック"
+  },
+  {
+    "英単語": "train",
+    "英語意味": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+    "日本語意味": "列車"
+  },
+  {
+    "英単語": "training",
+    "英語意味": "activity leading to skilled behavior",
+    "日本語意味": "トレーニング"
+  },
+  {
+    "英単語": "tram",
+    "英語意味": "a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers",
+    "日本語意味": "トラム"
+  },
+  {
+    "英単語": "trap",
+    "英語意味": "a device in which something (usually an animal) can be caught and penned",
+    "日本語意味": "トラップ"
+  },
+  {
+    "英単語": "travel",
+    "英語意味": "the act of going from one place to another",
+    "日本語意味": "トラベル"
+  },
+  {
+    "英単語": "traveler",
+    "英語意味": "a person who changes location",
+    "日本語意味": "旅行者"
+  },
+  {
+    "英単語": "treasure",
+    "英語意味": "accumulated wealth in the form of money or jewels etc.",
+    "日本語意味": "宝"
+  },
+  {
+    "英単語": "trick",
+    "英語意味": "a cunning or deceitful action or device",
+    "日本語意味": "騙す"
+  },
+  {
+    "英単語": "trouble",
+    "英語意味": "a source of difficulty",
+    "日本語意味": "トラブル"
+  },
+  {
+    "英単語": "truly",
+    "英語意味": "in accordance with truth or fact or reality",
+    "日本語意味": "真に"
+  },
+  {
+    "英単語": "trust",
+    "英語意味": "something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)",
+    "日本語意味": "信頼"
+  },
+  {
+    "英単語": "truth",
+    "英語意味": "a fact that has been verified",
+    "日本語意味": "真実"
+  },
+  {
+    "英単語": "try",
+    "英語意味": "earnest and conscientious activity intended to do or accomplish something",
+    "日本語意味": "試します"
+  },
+  {
+    "英単語": "tune",
+    "英語意味": "a succession of notes forming a distinctive sequence",
+    "日本語意味": "曲"
+  },
+  {
+    "英単語": "twice",
+    "英語意味": "two times",
+    "日本語意味": "二回"
+  },
+  {
+    "英単語": "uncertain",
+    "英語意味": "lacking or indicating lack of confidence or assurance",
+    "日本語意味": "不確実"
+  },
+  {
+    "英単語": "uncomfortable",
+    "英語意味": "conducive to or feeling mental discomfort",
+    "日本語意味": "不快な"
+  },
+  {
+    "英単語": "understand",
+    "英語意味": "know and comprehend the nature or meaning of",
+    "日本語意味": "理解する"
+  },
+  {
+    "英単語": "underwater",
+    "英語意味": "beneath the surface of the water",
+    "日本語意味": "水中"
+  },
+  {
+    "英単語": "uneasy",
+    "英語意味": "lacking a sense of security or affording no ease or reassurance",
+    "日本語意味": "不安"
+  },
+  {
+    "英単語": "unfair",
+    "英語意味": "not fair; marked by injustice or partiality or deception",
+    "日本語意味": "アンフェア"
+  },
+  {
+    "英単語": "unforgettable",
+    "英語意味": "impossible to forget",
+    "日本語意味": "忘れられない"
+  },
+  {
+    "英単語": "unfortunately",
+    "英語意味": "by bad luck",
+    "日本語意味": "不運にも"
+  },
+  {
+    "英単語": "unhappy",
+    "英語意味": "experiencing or marked by or causing sadness or sorrow or discontent",
+    "日本語意味": "不幸"
+  },
+  {
+    "英単語": "unhealthy",
+    "英語意味": "not in or exhibiting good health in body or mind",
+    "日本語意味": "不健康"
+  },
+  {
+    "英単語": "uniform",
+    "英語意味": "clothing of distinctive design worn by members of a particular group as a means of identification",
+    "日本語意味": "ユニフォーム"
+  },
+  {
+    "英単語": "unimportant",
+    "英語意味": "not important",
+    "日本語意味": "重要でありません"
+  },
+  {
+    "英単語": "unit",
+    "英語意味": "any division of quantity accepted as a standard of measurement or exchange",
+    "日本語意味": "単位"
+  },
+  {
+    "英単語": "university",
+    "英語意味": "the body of faculty and students at a university",
+    "日本語意味": "大学"
+  },
+  {
+    "英単語": "unknown",
+    "英語意味": "an unknown and unexplored region",
+    "日本語意味": "わからない"
+  },
+  {
+    "英単語": "unlike",
+    "英語意味": "marked by dissimilarity",
+    "日本語意味": "異なり、"
+  },
+  {
+    "英単語": "unnecessary",
+    "英語意味": "not necessary",
+    "日本語意味": "不要"
+  },
+  {
+    "英単語": "unpleasant",
+    "英語意味": "disagreeable to the senses, to the mind, or feelings",
+    "日本語意味": "不快"
+  },
+  {
+    "英単語": "unusual",
+    "英語意味": "not usual or common or ordinary",
+    "日本語意味": "珍しいです"
+  },
+  {
+    "英単語": "up",
+    "英語意味": "raise",
+    "日本語意味": "アップ"
+  },
+  {
+    "英単語": "upset",
+    "英語意味": "an unhappy and worried mental state",
+    "日本語意味": "動揺"
+  },
+  {
+    "英単語": "upstairs",
+    "英語意味": "the part of a building above the ground floor",
+    "日本語意味": "二階"
+  },
+  {
+    "英単語": "use",
+    "英語意味": "the act of using",
+    "日本語意味": "使用する"
+  },
+  {
+    "英単語": "used",
+    "英語意味": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "日本語意味": "中古"
+  },
+  {
+    "英単語": "useful",
+    "英語意味": "being of use or service",
+    "日本語意味": "有用"
+  },
+  {
+    "英単語": "usual",
+    "英語意味": "occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure",
+    "日本語意味": "一般"
+  },
+  {
+    "英単語": "valley",
+    "英語意味": "a long depression in the surface of the land that usually contains a river",
+    "日本語意味": "谷"
+  },
+  {
+    "英単語": "value",
+    "英語意味": "a numerical quantity measured or assigned or computed",
+    "日本語意味": "値"
+  },
+  {
+    "英単語": "verb",
+    "英語意味": "the word class that serves as the predicate of a sentence",
+    "日本語意味": "動詞"
+  },
+  {
+    "英単語": "view",
+    "英語意味": "a way of regarding situations or topics etc.",
+    "日本語意味": "見る"
+  },
+  {
+    "英単語": "village",
+    "英語意味": "a community of people smaller than a town",
+    "日本語意味": "村"
+  },
+  {
+    "英単語": "violent",
+    "英語意味": "acting with or marked by or resulting from great force or energy or emotional intensity",
+    "日本語意味": "激しいです"
+  },
+  {
+    "英単語": "violin",
+    "英語意味": "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow",
+    "日本語意味": "バイオリン"
+  },
+  {
+    "英単語": "visitor",
+    "英語意味": "someone who visits",
+    "日本語意味": "ビジター"
+  },
+  {
+    "英単語": "vocabulary",
+    "英語意味": "a listing of the words used in some enterprise",
+    "日本語意味": "単語"
+  },
+  {
+    "英単語": "voice",
+    "英語意味": "the distinctive quality or pitch or condition of a person's speech",
+    "日本語意味": "ボイス"
+  },
+  {
+    "英単語": "walking",
+    "英語意味": "the act of traveling by foot",
+    "日本語意味": "ウォーキング"
+  },
+  {
+    "英単語": "wallet",
+    "英語意味": "a pocket-size case for holding papers and paper money",
+    "日本語意味": "財布"
+  },
+  {
+    "英単語": "wander",
+    "英語意味": "move about aimlessly or without any destination, often in search of food or employment",
+    "日本語意味": "ワンダ"
+  },
+  {
+    "英単語": "washing-up",
+    "英語意味": "the washing of dishes etc after a meal",
+    "日本語意味": "食器洗い"
+  },
+  {
+    "英単語": "wave",
+    "英語意味": "one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+    "日本語意味": "波"
+  },
+  {
+    "英単語": "weak",
+    "英語意味": "wanting in physical strength",
+    "日本語意味": "弱い"
+  },
+  {
+    "英単語": "wealth",
+    "英語意味": "the state of being rich and affluent; having a plentiful supply of material goods and money",
+    "日本語意味": "富"
+  },
+  {
+    "英単語": "web",
+    "英語意味": "an intricate network suggesting something that was formed by weaving or interweaving",
+    "日本語意味": "ウェブ"
+  },
+  {
+    "英単語": "website",
+    "英語意味": "a computer connected to the internet that maintains a series of web pages on the World Wide Web",
+    "日本語意味": "ウェブサイト"
+  },
+  {
+    "英単語": "wedding",
+    "英語意味": "the social event at which the ceremony of marriage is performed",
+    "日本語意味": "結婚式"
+  },
+  {
+    "英単語": "weekday",
+    "英語意味": "any day except Sunday (and sometimes except Saturday)",
+    "日本語意味": "平日"
+  },
+  {
+    "英単語": "weekly",
+    "英語意味": "a periodical that is published every week (or 52 issues per year)",
+    "日本語意味": "ウィークリー"
+  },
+  {
+    "英単語": "weep",
+    "英語意味": "shed tears because of sadness, rage, or pain",
+    "日本語意味": "ウィープ"
+  },
+  {
+    "英単語": "weigh",
+    "英語意味": "have a certain weight",
+    "日本語意味": "量ります"
+  },
+  {
+    "英単語": "weight",
+    "英語意味": "the vertical force exerted by a mass as a result of gravity",
+    "日本語意味": "重量"
+  },
+  {
+    "英単語": "well-known",
+    "英語意味": "widely or fully known",
+    "日本語意味": "よく知られています"
+  },
+  {
+    "英単語": "west",
+    "英語意味": "the countries of (originally) Europe and (now including) North America and South America",
+    "日本語意味": "西"
+  },
+  {
+    "英単語": "wet",
+    "英語意味": "wetness caused by water",
+    "日本語意味": "ぬれました"
+  },
+  {
+    "英単語": "whatever",
+    "英語意味": "one or some or every or all without specification",
+    "日本語意味": "なんでも"
+  },
+  {
+    "英単語": "wheelchair",
+    "英語意味": "a movable chair mounted on large wheels; for invalids or those who cannot walk; frequently propelled by the occupant",
+    "日本語意味": "車椅子"
+  },
+  {
+    "英単語": "while",
+    "英語意味": "a period of indeterminate length (usually short) marked by some action or condition",
+    "日本語意味": "同時に"
+  },
+  {
+    "英単語": "whole",
+    "英語意味": "all of something including all its component elements or parts",
+    "日本語意味": "全体"
+  },
+  {
+    "英単語": "wide",
+    "英語意味": "having great (or a certain) extent from one side to the other",
+    "日本語意味": "ワイド"
+  },
+  {
+    "英単語": "widely",
+    "英語意味": "to a great degree",
+    "日本語意味": "広く"
+  },
+  {
+    "英単語": "wild",
+    "英語意味": "a wild primitive state untouched by civilization",
+    "日本語意味": "野生"
+  },
+  {
+    "英単語": "windy",
+    "英語意味": "abounding in or exposed to the wind or breezes",
+    "日本語意味": "風の吹きます"
+  },
+  {
+    "英単語": "wine",
+    "英語意味": "fermented juice (of grapes especially)",
+    "日本語意味": "ワイン"
+  },
+  {
+    "英単語": "winner",
+    "英語意味": "the contestant who wins the contest",
+    "日本語意味": "勝者"
+  },
+  {
+    "英単語": "wisdom",
+    "英語意味": "accumulated knowledge or erudition or enlightenment",
+    "日本語意味": "知恵"
+  },
+  {
+    "英単語": "wise",
+    "英語意味": "a way of doing or being",
+    "日本語意味": "賢い"
+  },
+  {
+    "英単語": "wish",
+    "英語意味": "a specific feeling of desire",
+    "日本語意味": "願い"
+  },
+  {
+    "英単語": "within",
+    "英語意味": "on the inside",
+    "日本語意味": "以内に"
+  },
+  {
+    "英単語": "wonder",
+    "英語意味": "the feeling aroused by something strange and surprising",
+    "日本語意味": "ワンダー"
+  },
+  {
+    "英単語": "wood",
+    "英語意味": "the hard fibrous lignified substance under the bark of trees",
+    "日本語意味": "木材"
+  },
+  {
+    "英単語": "wooden",
+    "英語意味": "made or consisting of (entirely or in part) or employing wood",
+    "日本語意味": "木製"
+  },
+  {
+    "英単語": "wool",
+    "英語意味": "a fabric made from the hair of sheep",
+    "日本語意味": "ウール"
+  },
+  {
+    "英単語": "worldwide",
+    "英語意味": "spanning or extending throughout the entire world",
+    "日本語意味": "世界的に"
+  },
+  {
+    "英単語": "worried",
+    "英語意味": "be worried, concerned, anxious, troubled, or uneasy",
+    "日本語意味": "心配"
+  },
+  {
+    "英単語": "worry",
+    "英語意味": "something or someone that causes anxiety; a source of unhappiness",
+    "日本語意味": "心配"
+  },
+  {
+    "英単語": "worse",
+    "英語意味": "something inferior in quality or condition or effect",
+    "日本語意味": "さらに悪いです"
+  },
+  {
+    "英単語": "worst",
+    "英語意味": "the least favorable outcome",
+    "日本語意味": "最悪"
+  },
+  {
+    "英単語": "writing",
+    "英語意味": "the act of creating written works",
+    "日本語意味": "書き込み"
+  },
+  {
+    "英単語": "wrong",
+    "英語意味": "that which is contrary to the principles of justice or law",
+    "日本語意味": "違う"
+  },
+  {
+    "英単語": "yeah",
+    "英語意味": "not only so, but",
+    "日本語意味": "ええ"
+  },
+  {
+    "英単語": "youth",
+    "英語意味": "a young person (especially a young man or boy)",
+    "日本語意味": "若者"
+  },
+  {
+    "英単語": "zone",
+    "英語意味": "a locally circumscribed place characterized by some distinctive features",
+    "日本語意味": "ゾーン"
+  }
+]
