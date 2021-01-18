@@ -64,38 +64,21 @@ table {
 .styled-table th:nth-child(2),
 .styled-table th:nth-child(3) {
   background-color: #807e7e;
-  
-
   color: #ffffff;
 }
 
 .styled-table td:nth-child(2),
 .styled-table td:nth-child(3) {
   background-color: #f3f3f3;
-
   /* color: #ffffff; */
 }
-
-
-
-/* .styled-table tr {
-      border-bottom: 1px solid #dddddd;
-  } */
-/* 
-  .styled-table tr:nth-of-type(even) {
-      background-color: #f3f3f3;
-  } */
-
-/* .styled-table tr:last-of-type {
-      border-bottom: 4px solid #009879;
-  } */
 
 #dataset_list {
   width: 250px;
 }
 
 #num_vocab_list {
-  width: 50px;
+  width: 50px
 }
 
 .select_box {
@@ -109,25 +92,7 @@ table {
   /* box-shadow: 4px 4px #ccc;  */
 }
 
-/* .one_more {
-  position: relative;
-  left: 15%;
-} */
-
-/* .one_more_btn{
-    margin:0 auto;
-    display:block;
-
-  } */
-
-/* .meaning {
-  position: relative;
-  left: 15%;
-  margin-top: 40px;
-} */
-
 .display_checkbox {
-  
   position: relative;
   padding-left: 10px;
   padding-top: 5px;
@@ -147,10 +112,6 @@ table {
   /* left: 15%; */
 }
 
-/* .dataset {
-  position: relative;
-  left: 15%;
-} */
 
 .select_dataset {
   /* position: relative; */
@@ -173,23 +134,17 @@ table {
   font-size: 14px;
 }
 
-
-
 .options1{
   display: grid;
   position: relative;
   left: 15%;
-  /* grid-column-gap: 15px; */
-  
   grid-template-columns: 140px 120px;
-  
 }
 
 .options2{
   display: grid;
   position: relative;
   left: 15%;
-
   /* grid-column-gap: 50px; */
   grid-template-columns: 120px 120px;
   
